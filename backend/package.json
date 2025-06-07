@@ -1,0 +1,20 @@
+{
+  "name": "webd",
+  "version": "1.0.0",
+  "description": "its an package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "krisha"
+  ],
+  "author": "krisha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

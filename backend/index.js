@@ -1,21 +1,28 @@
 const express = require('express');
 const app = express();
-const posts = require('./data'); // Import your dummy data
+const paginate = require('./utils/paginate');
+
+const photofeed = require('./data/photofeed');
+const videofeed = require('./data/videofeed');
+const reelfeed = require('./data/reelfeed');
 
 const PORT = 3000;
 
-app.get('/content', (req, res) => {
+app.get('/photofeed', (req, res) => {
   const page = parseInt(req.query.page) || 1;
-  const pageSize = 5;
+  res.json(paginate(photofeed, page));
+});
 
-  const startIndex = (page - 1) * pageSize;
-  const endIndex = startIndex + pageSize;
+app.get('/videofeed', (req, res) => {
+  const page = parseInt(req.query.page) || 1;
+  res.json(paginate(videofeed, page));
+});
 
-  const paginatedData = posts.slice(startIndex, endIndex);
-
-  res.json(paginatedData);
+app.get('/reelfeed', (req, res) => {
+  const page = parseInt(req.query.page) || 1;
+  res.json(paginate(reelfeed, page));
 });
 
 app.listen(PORT, () => {
-  console.log(`Server is running at http://localhost:${PORT}`);
+  console.log(`Server running at http://localhost:${PORT}`);
 });

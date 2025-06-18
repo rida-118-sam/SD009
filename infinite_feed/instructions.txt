@@ -1,0 +1,20 @@
+*Infinite Feed - User Preference Page*
+
+# How to run:
+
+1.  Python 3.13+ should be installed
+2. Install required packages:
+
+   pip install -r requirements.txt
+
+3. Run the Flask app in terminal using:
+
+   python app.py
+
+4. Open in browser(link for that page):
+
+   http://127.0.0.1:5000/preferences
+
+{MongoDB must be running locally on port 27017.
+ the page contains a preference selection form.
+ Saves selected tags to MongoDB under `user_id = "user001"`.}

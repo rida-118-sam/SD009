@@ -1,7 +1,11 @@
-
 import React, { useState, useEffect, useCallback } from 'react';
 import FeedCard from './FeedCard';
 import MediaModal from './MediaModal';
+
+// Import static data
+import reelsData from '../data/reels.json';
+import videosData from '../data/videos.json';
+import photosData from '../data/photos.json';
 
 interface FeedItem {
   id: string;
@@ -23,29 +27,6 @@ interface FeedProps {
   onItemsChange?: (items: FeedItem[]) => void;
 }
 
-// Mock data generator
-const generateMockData = (type: string, categories: string[]): FeedItem[] => {
-  const categoryNames = ['technology', 'sports', 'lifestyle', 'business', 'education', 'health', 'fashion', 'gaming'];
-  const authors = ['John Doe', 'Jane Smith', 'Alex Johnson', 'Sarah Wilson', 'Mike Brown', 'Emma Davis'];
-  
-  // Use all categories if none specified, otherwise filter by selected categories
-  const availableCategories = categories.length > 0 ? categories : categoryNames;
-  
-  return Array.from({ length: 20 }, (_, i) => ({
-    id: `${type}-${Date.now()}-${i}`,
-    type: type as 'photo' | 'reel' | 'video',
-    title: `Amazing ${type} content #${i + 1}`,
-    description: `This is a sample ${type} description that showcases the content. Lorem ipsum dolor sit amet, consectetur adipiscing elit.`,
-    category: availableCategories[Math.floor(Math.random() * availableCategories.length)],
-    mediaUrl: `https://picsum.photos/800/800?random=${Date.now()}-${i}`,
-    thumbnailUrl: type !== 'photo' ? `https://picsum.photos/400/400?random=${Date.now()}-${i}` : undefined,
-    author: authors[Math.floor(Math.random() * authors.length)],
-    likes: Math.floor(Math.random() * 1000) + 10,
-    isLiked: Math.random() > 0.8,
-    isSaved: Math.random() > 0.9,
-  }));
-};
-
 const Feed: React.FC<FeedProps> = ({ feedType, categories, onItemsChange }) => {
   const [items, setItems] = useState<FeedItem[]>([]);
   const [loading, setLoading] = useState(false);
@@ -53,73 +34,96 @@ const Feed: React.FC<FeedProps> = ({ feedType, categories, onItemsChange }) => {
   const [selectedItem, setSelectedItem] = useState<FeedItem | null>(null);
   const [currentReelIndex, setCurrentReelIndex] = useState(0);
 
-  const loadMoreItems = useCallback(() => {
-    if (loading || !hasMore) return;
-    
-    setLoading(true);
-    
-    // Simulate API call
-    setTimeout(() => {
-      const newItems = generateMockData(feedType, categories);
-      setItems(prev => {
-        const updated = [...prev, ...newItems];
-        onItemsChange?.(updated);
-        return updated;
-      });
-      setLoading(false);
-      
-      // Simulate end of data after a few loads
-      if (items.length > 100) {
-        setHasMore(false);
-      }
-    }, 1000);
-  }, [feedType, categories, loading, hasMore, items.length, onItemsChange]);
-
+  // Load static data based on feedType
   useEffect(() => {
-    setItems([]);
-    setHasMore(true);
+    let data: FeedItem[] = [];
+    if (feedType === 'reel') {
+      type ReelDataItem = {
+        id: string | number;
+        title: string;
+        description: string;
+        tag?: string;
+        reel_url: string;
+        thumbnailUrl?: string;
+        author?: string;
+        likes?: number;
+        isLiked?: boolean;
+        isSaved?: boolean;
+      };
+      data = reelsData.map((item: ReelDataItem) => ({
+        id: String(item.id),
+        type: 'reel',
+        title: item.title,
+        description: item.description,
+        category: item.tag || 'General',
+        mediaUrl: item.reel_url,
+        thumbnailUrl: item.thumbnailUrl || '', // or generate/leave empty
+        author: item.author || 'Unknown',
+        likes: item.likes || 0,
+        isLiked: item.isLiked ?? false,
+        isSaved: item.isSaved ?? false,
+      }));
+    } else if (feedType === 'video') {
+      data = videosData.map((item: {
+        id: string | number;
+        title: string;
+        description: string;
+        tag?: string;
+        video_url: string;
+        thumbnailUrl?: string;
+        author?: string;
+        likes?: number;
+        isLiked?: boolean;
+        isSaved?: boolean;
+      }) => ({
+        id: String(item.id),
+        type: 'video',
+        title: item.title,
+        description: item.description,
+        category: item.tag || 'General',
+        mediaUrl: item.video_url,
+        thumbnailUrl: item.thumbnailUrl || '', // or generate/leave empty
+        author: item.author || 'Unknown',
+        likes: item.likes || 0,
+        isLiked: item.isLiked ?? false,
+        isSaved: item.isSaved ?? false,
+      }));
+    } else if (feedType === 'photo') {
+      type PhotoDataItem = {
+        id: string | number;
+        title: string;
+        description: string;
+        tag?: string;
+        image_url: string;
+        thumbnailUrl?: string;
+        author?: string;
+        likes?: number;
+        isLiked?: boolean;
+        isSaved?: boolean;
+      };
+      data = photosData.map((item: PhotoDataItem) => ({
+        id: String(item.id),
+        type: 'photo',
+        title: item.title,
+        description: item.description,
+        category: item.tag || 'General',
+        mediaUrl: item.image_url,
+        thumbnailUrl: item.thumbnailUrl || '', // or generate/leave empty
+        author: item.author || 'Unknown',
+        likes: item.likes || 0,
+        isLiked: item.isLiked ?? false,
+        isSaved: item.isSaved ?? false,
+      }));
+    }
+    // Optionally filter by categories
+    if (categories && categories.length > 0) {
+      data = data.filter(item => categories.includes(item.category));
+    }
+    setItems(data);
+    setHasMore(false); // No infinite scroll for static data
+    onItemsChange?.(data);
     setCurrentReelIndex(0);
-    loadMoreItems();
-  }, [feedType, categories]);
-
-  useEffect(() => {
-    if (feedType !== 'reel') {
-      const handleScroll = () => {
-        if (
-          window.innerHeight + document.documentElement.scrollTop >=
-          document.documentElement.offsetHeight - 1000
-        ) {
-          loadMoreItems();
-        }
-      };
-
-      window.addEventListener('scroll', handleScroll);
-      return () => window.removeEventListener('scroll', handleScroll);
-    }
-  }, [loadMoreItems, feedType]);
-
-  // Auto-scroll for reels (YouTube Shorts style)
-  useEffect(() => {
-    if (feedType === 'reel' && items.length > 0) {
-      const handleScroll = () => {
-        const scrollY = window.scrollY;
-        const windowHeight = window.innerHeight;
-        const newIndex = Math.round(scrollY / windowHeight);
-        
-        if (newIndex !== currentReelIndex && newIndex < items.length) {
-          setCurrentReelIndex(newIndex);
-        }
-        
-        // Load more when near the end
-        if (newIndex >= items.length - 3) {
-          loadMoreItems();
-        }
-      };
-
-      window.addEventListener('scroll', handleScroll);
-      return () => window.removeEventListener('scroll', handleScroll);
-    }
-  }, [feedType, items.length, currentReelIndex, loadMoreItems]);
+  }, [feedType, categories, onItemsChange]);
 
   const handleLike = (id: string) => {
     setItems(prev => {

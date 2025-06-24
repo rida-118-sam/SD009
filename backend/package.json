@@ -12,7 +12,8 @@
   "author": "krisha",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "firebase": "^11.9.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"

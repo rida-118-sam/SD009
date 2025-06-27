@@ -1,704 +1,670 @@
 [
-    {
-        "id": 1,
-        "title": "Quantum Leap: Next-Gen Computing",
-        "tag": "technology",
-        "description": "Discover the untapped potential of quantum algorithms for real-world applications.",
-        "reel_url": "https://reels.example.com/tech001"
-    },
-    {
-        "id": 2,
-        "title": "Python Powerhouses: Libraries Redefining Code",
-        "tag": "technology",
-        "description": "Meet the new Python libraries that are changing how developers solve complex problems.",
-        "reel_url": "https://reels.example.com/tech002"
-    },
-    {
-        "id": 3,
-        "title": "Smart Living: AI at Home",
-        "tag": "technology",
-        "description": "From smart fridges to voice assistants, see how AI is making homes more efficient.",
-        "reel_url": "https://reels.example.com/tech003"
-    },
-    {
-        "id": 4,
-        "title": "AI and Accountability: Navigating New Frontiers",
-        "tag": "technology",
-        "description": "A fresh look at transparency and responsibility in artificial intelligence.",
-        "reel_url": "https://reels.example.com/tech004"
-    },
-    {
-        "id": 5,
-        "title": "Wireless Revolution: Beyond 6G",
-        "tag": "technology",
-        "description": "Explore the innovations paving the way for ultra-fast, hyper-connected societies.",
-        "reel_url": "https://reels.example.com/tech005"
-    },
-    {
-        "id": 6,
-        "title": "Blockchain Unchained: Real-World Impact",
-        "tag": "technology",
-        "description": "How decentralized ledgers are transforming industries from finance to healthcare.",
-        "reel_url": "https://reels.example.com/tech006"
-    },
-    {
-        "id": 7,
-        "title": "IoT Innovations: The Next Wave",
-        "tag": "technology",
-        "description": "A look at the latest breakthroughs connecting devices in smarter ways.",
-        "reel_url": "https://reels.example.com/tech007"
-    },
-    {
-        "id": 8,
-        "title": "Startup Disruptors: The 2025 Watchlist",
-        "tag": "technology",
-        "description": "Profiles of startups poised to disrupt their industries with bold new ideas.",
-        "reel_url": "https://reels.example.com/tech008"
-    },
-    {
-        "id": 9,
-        "title": "Digital Defense: Cybersecurity in 2025",
-        "tag": "technology",
-        "description": "Emerging threats and the latest strategies to keep your data safe.",
-        "reel_url": "https://reels.example.com/tech009"
-    },
-    {
-        "id": 10,
-        "title": "Edge Intelligence: Smarter Data Processing",
-        "tag": "technology",
-        "description": "Why edge computing is critical for real-time analytics and automation.",
-        "reel_url": "https://reels.example.com/tech010"
-    },
-    {
-        "id": 11,
-        "title": "Champions Rise: The Road to Paris",
-        "tag": "sports",
-        "description": "Follow the inspiring stories of athletes preparing for the next Olympic Games.",
-        "reel_url": "https://reels.example.com/sports001"
-    },
-    {
-        "id": 12,
-        "title": "Underdog Victories: Football’s Greatest Upsets",
-        "tag": "sports",
-        "description": "Relive the moments when the underdogs shocked the football world.",
-        "reel_url": "https://reels.example.com/sports002"
-    },
-    {
-        "id": 13,
-        "title": "Marathon Mindset: Training for Endurance",
-        "tag": "sports",
-        "description": "Explore the mental and physical strategies behind marathon success.",
-        "reel_url": "https://reels.example.com/sports003"
-    },
-    {
-        "id": 14,
-        "title": "Cricket Legends: Beyond the Boundary",
-        "tag": "sports",
-        "description": "A tribute to cricket’s all-time greats and their unforgettable achievements.",
-        "reel_url": "https://reels.example.com/sports004"
-    },
-    {
-        "id": 15,
-        "title": "Basketball’s New Era: Rising Stars",
-        "tag": "sports",
-        "description": "Meet the young talents redefining the future of basketball.",
-        "reel_url": "https://reels.example.com/sports005"
-    },
-    {
-        "id": 16,
-        "title": "Formula One: The Science of Speed",
-        "tag": "sports",
-        "description": "Dive into the technology and teamwork behind F1 racing.",
-        "reel_url": "https://reels.example.com/sports006"
-    },
-    {
-        "id": 17,
-        "title": "Tennis Tactics: Mastering the Court",
-        "tag": "sports",
-        "description": "Discover the strategies that separate champions from challengers.",
-        "reel_url": "https://reels.example.com/sports007"
-    },
-    {
-        "id": 18,
-        "title": "Surf’s Up: The World of Big Wave Riding",
-        "tag": "sports",
-        "description": "Experience the thrill and danger of surfing the planet’s biggest waves.",
-        "reel_url": "https://reels.example.com/sports008"
-    },
-    {
-        "id": 19,
-        "title": "Fitness Revolution: HIIT Workouts Explained",
-        "tag": "sports",
-        "description": "Why high-intensity interval training is taking over gyms worldwide.",
-        "reel_url": "https://reels.example.com/sports009"
-    },
-    {
-        "id": 20,
-        "title": "The Art of Climbing: Scaling New Heights",
-        "tag": "sports",
-        "description": "A look at the world’s most challenging climbs and the athletes who conquer them.",
-        "reel_url": "https://reels.example.com/sports010"
-    },
-    {
-        "id": 21,
-        "title": "Urban Oasis: Designing Green Cities",
-        "tag": "lifestyle",
-        "description": "How architects are transforming cityscapes with sustainable design.",
-        "reel_url": "https://reels.example.com/lifestyle001"
-    },
-    {
-        "id": 22,
-        "title": "Minimalism: Living with Less",
-        "tag": "lifestyle",
-        "description": "Explore the benefits of decluttering and simplifying your life.",
-        "reel_url": "https://reels.example.com/lifestyle002"
-    },
-    {
-        "id": 23,
-        "title": "Home Office Hacks: Productivity Unleashed",
-        "tag": "lifestyle",
-        "description": "Tips and tools for creating your ideal work-from-home environment.",
-        "reel_url": "https://reels.example.com/lifestyle003"
-    },
-    {
-        "id": 24,
-        "title": "Fashion Forward: Trends for 2025",
-        "tag": "lifestyle",
-        "description": "A preview of the colors, fabrics, and styles set to dominate the year.",
-        "reel_url": "https://reels.example.com/lifestyle004"
-    },
-    {
-        "id": 25,
-        "title": "Mindful Mornings: Routines That Work",
-        "tag": "lifestyle",
-        "description": "How to start your day with intention and energy.",
-        "reel_url": "https://reels.example.com/lifestyle005"
-    },
-    {
-        "id": 26,
-        "title": "Pet Parenting: The Modern Guide",
-        "tag": "lifestyle",
-        "description": "Everything you need to know about caring for your furry friends.",
-        "reel_url": "https://reels.example.com/lifestyle006"
-    },
-    {
-        "id": 27,
-        "title": "Eco-Friendly Living: Small Changes, Big Impact",
-        "tag": "lifestyle",
-        "description": "Simple ways to reduce your carbon footprint every day.",
-        "reel_url": "https://reels.example.com/lifestyle007"
-    },
-    {
-        "id": 28,
-        "title": "Digital Detox: Reclaiming Your Time",
-        "tag": "lifestyle",
-        "description": "Strategies for unplugging and reconnecting with what matters.",
-        "reel_url": "https://reels.example.com/lifestyle008"
-    },
-    {
-        "id": 29,
-        "title": "Home Gardening: Urban Green Thumbs",
-        "tag": "lifestyle",
-        "description": "How city dwellers are embracing home-grown produce.",
-        "reel_url": "https://reels.example.com/lifestyle009"
-    },
-    {
-        "id": 30,
-        "title": "The Art of Journaling: Creativity Unlocked",
-        "tag": "lifestyle",
-        "description": "Discover how journaling can boost your creativity and well-being.",
-        "reel_url": "https://reels.example.com/lifestyle010"
-    },
-    {
-        "id": 31,
-        "title": "Hidden Gems: Exploring Lesser-Known Cities",
-        "tag": "travel",
-        "description": "Travel off the beaten path to discover unique destinations.",
-        "reel_url": "https://reels.example.com/travel001"
-    },
-    {
-        "id": 32,
-        "title": "Solo Adventures: Traveling Alone with Confidence",
-        "tag": "travel",
-        "description": "Tips for making the most of your solo journeys.",
-        "reel_url": "https://reels.example.com/travel002"
-    },
-    {
-        "id": 33,
-        "title": "Luxury on a Budget: Affordable Getaways",
-        "tag": "travel",
-        "description": "How to enjoy five-star experiences without breaking the bank.",
-        "reel_url": "https://reels.example.com/travel003"
-    },
-    {
-        "id": 34,
-        "title": "Cultural Immersion: Living Like a Local",
-        "tag": "travel",
-        "description": "Experience authentic culture by connecting with local communities.",
-        "reel_url": "https://reels.example.com/travel004"
-    },
-    {
-        "id": 35,
-        "title": "Eco-Tourism: Sustainable Travel Choices",
-        "tag": "travel",
-        "description": "Travel responsibly and protect the planet’s natural wonders.",
-        "reel_url": "https://reels.example.com/travel005"
-    },
-    {
-        "id": 36,
-        "title": "Mountain Escapes: The Call of the Peaks",
-        "tag": "travel",
-        "description": "Explore breathtaking mountain destinations around the globe.",
-        "reel_url": "https://reels.example.com/travel006"
-    },
-    {
-        "id": 37,
-        "title": "Island Hopping: Tropical Paradises Await",
-        "tag": "travel",
-        "description": "Discover the world’s most beautiful and secluded islands.",
-        "reel_url": "https://reels.example.com/travel007"
-    },
-    {
-        "id": 38,
-        "title": "Foodie Travels: Global Culinary Journeys",
-        "tag": "travel",
-        "description": "Sample the world’s best dishes in unforgettable settings.",
-        "reel_url": "https://reels.example.com/travel008"
-    },
-    {
-        "id": 39,
-        "title": "Historic Trails: Walking Through Time",
-        "tag": "travel",
-        "description": "Follow ancient paths and discover the stories they tell.",
-        "reel_url": "https://reels.example.com/travel009"
-    },
-    {
-        "id": 40,
-        "title": "Adventure Awaits: Extreme Travel Experiences",
-        "tag": "travel",
-        "description": "Push your limits with these adrenaline-fueled adventures.",
-        "reel_url": "https://reels.example.com/travel010"
-    },
-    {
-        "id": 41,
-        "title": "Street Eats: The World’s Best Food Markets",
-        "tag": "food",
-        "description": "Explore vibrant food markets and their delicious offerings.",
-        "reel_url": "https://reels.example.com/food001"
-    },
-    {
-        "id": 42,
-        "title": "Plant-Based Revolution: Vegan Delights",
-        "tag": "food",
-        "description": "Discover creative and tasty vegan dishes from around the world.",
-        "reel_url": "https://reels.example.com/food002"
-    },
-    {
-        "id": 43,
-        "title": "Artisan Breads: The Rise of Sourdough",
-        "tag": "food",
-        "description": "Why sourdough is the bread of choice for foodies everywhere.",
-        "reel_url": "https://reels.example.com/food003"
-    },
-    {
-        "id": 44,
-        "title": "Farm to Table: Freshness Redefined",
-        "tag": "food",
-        "description": "How local farms are changing the way we eat.",
-        "reel_url": "https://reels.example.com/food004"
-    },
-    {
-        "id": 45,
-        "title": "Coffee Culture: Brews from Every Corner",
-        "tag": "food",
-        "description": "A journey through the world’s most unique coffee traditions.",
-        "reel_url": "https://reels.example.com/food005"
-    },
-    {
-        "id": 46,
-        "title": "Sweet Tooth: Global Dessert Adventures",
-        "tag": "food",
-        "description": "Indulge in decadent desserts from every continent.",
-        "reel_url": "https://reels.example.com/food006"
-    },
-    {
-        "id": 47,
-        "title": "Street Food Stories: Flavors of Asia",
-        "tag": "food",
-        "description": "Sample the vibrant street foods that define Asian cuisine.",
-        "reel_url": "https://reels.example.com/food007"
-    },
-    {
-        "id": 48,
-        "title": "Home Cooking: Comfort Food Classics",
-        "tag": "food",
-        "description": "Rediscover the joy of homemade comfort foods.",
-        "reel_url": "https://reels.example.com/food008"
-    },
-    {
-        "id": 49,
-        "title": "Wine Regions: A Taste of the Vine",
-        "tag": "food",
-        "description": "Explore the world’s most renowned wine-producing regions.",
-        "reel_url": "https://reels.example.com/food009"
-    },
-    {
-        "id": 50,
-        "title": "Spice Routes: Culinary History Unveiled",
-        "tag": "food",
-        "description": "Trace the origins of the world’s most beloved spices.",
-        "reel_url": "https://reels.example.com/food010"
-    },
-    {
-        "id": 51,
-        "title": "Wellness Warriors: Building Healthy Habits",
-        "tag": "health",
-        "description": "Simple steps to improve your health and well-being.",
-        "reel_url": "https://reels.example.com/health001"
-    },
-    {
-        "id": 52,
-        "title": "Mind Matters: The Science of Happiness",
-        "tag": "health",
-        "description": "Explore the latest research on mental health and happiness.",
-        "reel_url": "https://reels.example.com/health002"
-    },
-    {
-        "id": 53,
-        "title": "Superfoods: Nature’s Powerhouses",
-        "tag": "health",
-        "description": "Discover the health benefits of superfoods from around the world.",
-        "reel_url": "https://reels.example.com/health003"
-    },
-    {
-        "id": 54,
-        "title": "Yoga for All: Flexibility and Focus",
-        "tag": "health",
-        "description": "How yoga can enhance your physical and mental well-being.",
-        "reel_url": "https://reels.example.com/health004"
-    },
-    {
-        "id": 55,
-        "title": "Sleep Science: Rest for Success",
-        "tag": "health",
-        "description": "Unlock the secrets to better sleep and improved productivity.",
-        "reel_url": "https://reels.example.com/health005"
-    },
-    {
-        "id": 56,
-        "title": "Holistic Healing: Alternative Therapies",
-        "tag": "health",
-        "description": "An overview of alternative therapies for mind and body wellness.",
-        "reel_url": "https://reels.example.com/health006"
-    },
-    {
-        "id": 57,
-        "title": "Heart Health: Keeping Your Ticker Strong",
-        "tag": "health",
-        "description": "Tips for maintaining a healthy heart at any age.",
-        "reel_url": "https://reels.example.com/health007"
-    },
-    {
-        "id": 58,
-        "title": "Immunity Boosters: Staying Strong Year-Round",
-        "tag": "health",
-        "description": "Natural ways to strengthen your immune system.",
-        "reel_url": "https://reels.example.com/health008"
-    },
-    {
-        "id": 59,
-        "title": "Fitness for Life: Movement at Any Age",
-        "tag": "health",
-        "description": "How to stay active and healthy throughout your life.",
-        "reel_url": "https://reels.example.com/health009"
-    },
-    {
-        "id": 60,
-        "title": "Nutrition Myths: Fact vs. Fiction",
-        "tag": "health",
-        "description": "Debunking common misconceptions about nutrition.",
-        "reel_url": "https://reels.example.com/health010"
-    },
-    {
-        "id": 61,
-        "title": "Startup Stories: From Idea to Impact",
-        "tag": "business",
-        "description": "How entrepreneurs turn big ideas into successful ventures.",
-        "reel_url": "https://reels.example.com/business001"
-    },
-    {
-        "id": 62,
-        "title": "Women in Business: Breaking Barriers",
-        "tag": "business",
-        "description": "Celebrating the achievements of women leaders in business.",
-        "reel_url": "https://reels.example.com/business002"
-    },
-    {
-        "id": 63,
-        "title": "Remote Work: The New Normal",
-        "tag": "business",
-        "description": "How companies are adapting to a remote-first world.",
-        "reel_url": "https://reels.example.com/business003"
-    },
-    {
-        "id": 64,
-        "title": "Financial Freedom: Smart Investing",
-        "tag": "business",
-        "description": "Strategies for building wealth through smart investments.",
-        "reel_url": "https://reels.example.com/business004"
-    },
-    {
-        "id": 65,
-        "title": "Green Business: Profits with Purpose",
-        "tag": "business",
-        "description": "How companies are balancing profit and sustainability.",
-        "reel_url": "https://reels.example.com/business005"
-    },
-    {
-        "id": 66,
-        "title": "Brand Building: Creating Loyal Fans",
-        "tag": "business",
-        "description": "The secrets to building a brand that customers love.",
-        "reel_url": "https://reels.example.com/business006"
-    },
-    {
-        "id": 67,
-        "title": "E-Commerce Evolution: The Future of Shopping",
-        "tag": "business",
-        "description": "How technology is reshaping the retail landscape.",
-        "reel_url": "https://reels.example.com/business007"
-    },
-    {
-        "id": 68,
-        "title": "Leadership Lessons: Inspiring Teams",
-        "tag": "business",
-        "description": "Key traits and habits of effective leaders.",
-        "reel_url": "https://reels.example.com/business008"
-    },
-    {
-        "id": 69,
-        "title": "Startup Funding: Navigating the Landscape",
-        "tag": "business",
-        "description": "A guide to raising capital for your business.",
-        "reel_url": "https://reels.example.com/business009"
-    },
-    {
-        "id": 70,
-        "title": "The Gig Economy: Work on Your Terms",
-        "tag": "business",
-        "description": "Explore the rise and impact of gig work.",
-        "reel_url": "https://reels.example.com/business010"
-    },
-    {
-        "id": 71,
-        "title": "Lifelong Learning: The Power of Curiosity",
-        "tag": "education",
-        "description": "Why curiosity is the key to continuous personal growth.",
-        "reel_url": "https://reels.example.com/education001"
-    },
-    {
-        "id": 72,
-        "title": "EdTech Revolution: Classrooms Go Digital",
-        "tag": "education",
-        "description": "How technology is transforming education worldwide.",
-        "reel_url": "https://reels.example.com/education002"
-    },
-    {
-        "id": 73,
-        "title": "Study Smarter: Techniques for Success",
-        "tag": "education",
-        "description": "Effective study strategies for students of all ages.",
-        "reel_url": "https://reels.example.com/education003"
-    },
-    {
-        "id": 74,
-        "title": "Online Degrees: The Future of Higher Ed",
-        "tag": "education",
-        "description": "The benefits and challenges of online learning.",
-        "reel_url": "https://reels.example.com/education004"
-    },
-    {
-        "id": 75,
-        "title": "Language Learning: Tips for Fluency",
-        "tag": "education",
-        "description": "How to master a new language efficiently.",
-        "reel_url": "https://reels.example.com/education005"
-    },
-    {
-        "id": 76,
-        "title": "Creative Classrooms: Inspiring Innovation",
-        "tag": "education",
-        "description": "How creative teaching methods spark innovation.",
-        "reel_url": "https://reels.example.com/education006"
-    },
-    {
-        "id": 77,
-        "title": "STEM for Kids: Building Future Innovators",
-        "tag": "education",
-        "description": "Engaging children in science, technology, engineering, and math.",
-        "reel_url": "https://reels.example.com/education007"
-    },
-    {
-        "id": 78,
-        "title": "Financial Literacy: Skills for Life",
-        "tag": "education",
-        "description": "Essential financial skills every student should learn.",
-        "reel_url": "https://reels.example.com/education008"
-    },
-    {
-        "id": 79,
-        "title": "Exam Stress: Coping Strategies",
-        "tag": "education",
-        "description": "Practical tips for managing exam anxiety.",
-        "reel_url": "https://reels.example.com/education009"
-    },
-    {
-        "id": 80,
-        "title": "Global Classrooms: Learning Without Borders",
-        "tag": "education",
-        "description": "How international collaboration is shaping modern education.",
-        "reel_url": "https://reels.example.com/education010"
-    },
-    {
-        "id": 81,
-        "title": "Streaming Wars: The Battle for Viewers",
-        "tag": "entertainment",
-        "description": "How streaming platforms are changing the entertainment industry.",
-        "reel_url": "https://reels.example.com/entertainment001"
-    },
-    {
-        "id": 82,
-        "title": "Indie Films: Stories That Matter",
-        "tag": "entertainment",
-        "description": "Celebrating independent filmmakers and their unique visions.",
-        "reel_url": "https://reels.example.com/entertainment002"
-    },
-    {
-        "id": 83,
-        "title": "Music Festivals: The Ultimate Experience",
-        "tag": "entertainment",
-        "description": "A look at the world’s most iconic music festivals.",
-        "reel_url": "https://reels.example.com/entertainment003"
-    },
-    {
-        "id": 84,
-        "title": "Comedy Gold: Stand-Up’s Brightest Stars",
-        "tag": "entertainment",
-        "description": "Meet the comedians making audiences laugh worldwide.",
-        "reel_url": "https://reels.example.com/entertainment004"
-    },
-    {
-        "id": 85,
-        "title": "The Art of Animation: Behind the Scenes",
-        "tag": "entertainment",
-        "description": "Discover the creative process behind your favorite animated films.",
-        "reel_url": "https://reels.example.com/entertainment005"
-    },
-    {
-        "id": 86,
-        "title": "Podcast Power: Voices That Inspire",
-        "tag": "entertainment",
-        "description": "Explore the podcasts making waves in every genre.",
-        "reel_url": "https://reels.example.com/entertainment006"
-    },
-    {
-        "id": 87,
-        "title": "Broadway Bound: Theater’s Big Comeback",
-        "tag": "entertainment",
-        "description": "How live theater is captivating new audiences.",
-        "reel_url": "https://reels.example.com/entertainment007"
-    },
-    {
-        "id": 88,
-        "title": "Gaming Evolution: Next-Gen Consoles",
-        "tag": "entertainment",
-        "description": "What’s new in the world of gaming technology.",
-        "reel_url": "https://reels.example.com/entertainment008"
-    },
-    {
-        "id": 89,
-        "title": "Dance Craze: Moves That Go Viral",
-        "tag": "entertainment",
-        "description": "The most popular dance trends lighting up social media.",
-        "reel_url": "https://reels.example.com/entertainment009"
-    },
-    {
-        "id": 90,
-        "title": "Celebrity Spotlight: Rising Icons",
-        "tag": "entertainment",
-        "description": "Meet the new faces making headlines in entertainment.",
-        "reel_url": "https://reels.example.com/entertainment010"
-    },
-    {
-        "id": 91,
-        "title": "Space Race: Private Companies Take Off",
-        "tag": "science",
-        "description": "How private enterprises are shaping the future of space exploration.",
-        "reel_url": "https://reels.example.com/science001"
-    },
-    {
-        "id": 92,
-        "title": "Climate Change: Innovations for a Cooler Planet",
-        "tag": "science",
-        "description": "The latest breakthroughs in climate science and technology.",
-        "reel_url": "https://reels.example.com/science002"
-    },
-    {
-        "id": 93,
-        "title": "Genetics Unlocked: The Future of Medicine",
-        "tag": "science",
-        "description": "How genetic research is revolutionizing healthcare.",
-        "reel_url": "https://reels.example.com/science003"
-    },
-    {
-        "id": 94,
-        "title": "Deep Sea Mysteries: Exploring the Abyss",
-        "tag": "science",
-        "description": "A journey into the unexplored depths of the world’s oceans.",
-        "reel_url": "https://reels.example.com/science004"
-    },
-    {
-        "id": 95,
-        "title": "Renewable Energy: Powering the Future",
-        "tag": "science",
-        "description": "How solar, wind, and other renewables are changing the energy landscape.",
-        "reel_url": "https://reels.example.com/science005"
-    },
-    {
-        "id": 96,
-        "title": "Robotics Revolution: Machines That Learn",
-        "tag": "science",
-        "description": "The rise of intelligent robots in everyday life.",
-        "reel_url": "https://reels.example.com/science006"
-    },
-    {
-        "id": 97,
-        "title": "Brain Science: Mapping the Mind",
-        "tag": "science",
-        "description": "Uncovering the secrets of the human brain through neuroscience.",
-        "reel_url": "https://reels.example.com/science007"
-    },
-    {
-        "id": 98,
-        "title": "Wildlife Wonders: Conservation Success Stories",
-        "tag": "science",
-        "description": "Celebrating the victories in wildlife conservation.",
-        "reel_url": "https://reels.example.com/science008"
-    },
-    {
-        "id": 99,
-        "title": "Nanotechnology: Small Solutions, Big Impact",
-        "tag": "science",
-        "description": "How nanotech is solving some of the world’s biggest challenges.",
-        "reel_url": "https://reels.example.com/science009"
-    },
-    {
-        "id": 100,
-        "title": "Medical Marvels: Breakthrough Treatments",
-        "tag": "science",
-        "description": "The latest advancements in medical treatment and technology.",
-        "reel_url": "https://reels.example.com/science010"
-    },
+   
+  {
+    "id": 1,
+    "title": "Quantum Leap: Next-Gen Computing",
+    "tag": "technology",
+    "description": "Discover the untapped potential of quantum algorithms for real‑world applications.",
+    "reel_url": "https://www.youtube.com/shorts/B0eSinctAcs"
+  },
+  {
+    "id": 2,
+    "title": "Python Powerhouses: Libraries Redefining Code",
+    "tag": "technology",
+    "description": "Meet the new Python libraries that are changing how developers solve complex problems.",
+    "reel_url": "https://www.youtube.com/shorts/8T1VLX1Y5eQ"
+  },
+  {
+    "id": 3,
+    "title": "Smart Living: AI at Home",
+    "tag": "technology",
+    "description": "From smart fridges to voice assistants, see how AI is making homes more efficient.",
+    "reel_url": "https://www.youtube.com/shorts/3ASqsr81nMs"
+  },
+  {
+    "id": 4,
+    "title": "AI and Accountability: Navigating New Frontiers",
+    "tag": "technology",
+    "description": "A fresh look at transparency and responsibility in artificial intelligence.",
+    "reel_url": "https://www.tiktok.com/discover/ai-accountability-commercial"
+  },
+  {
+    "id": 5,
+    "title": "Wireless Revolution: Beyond 6G",
+    "tag": "technology",
+    "description": "Explore the innovations paving the way for ultra-fast, hyper-connected societies.",
+    "reel_url": "https://www.instagram.com/reel/DCLgKCGyOoc/"
+  },
+  {
+    "id": 6,
+    "title": "Blockchain Unchained: Real-World Impact",
+    "tag": "technology",
+    "description": "How decentralized ledgers are transforming industries from finance to healthcare.",
+    "reel_url": "https://www.youtube.com/shorts/W21tUYTIEHg"
+  },
+  {
+    "id": 7,
+    "title": "IoT Innovations: The Next Wave",
+    "tag": "technology",
+    "description": "A look at the latest breakthroughs connecting devices in smarter ways.",
+    "reel_url": "https://www.youtube.com/watch?v=aT9ElBQ-Ug4"
+  },
+  {
+    "id": 8,
+    "title": "Startup Disruptors: The 2025 Watchlist",
+    "tag": "technology",
+    "description": "Profiles of startups poised to disrupt their industries with bold new ideas.",
+    "reel_url": "https://www.instagram.com/reel/DHn1Ub8SpbR/"
+  },
+  {
+    "id": 9,
+    "title": "Digital Defense: Cybersecurity in 2025",
+    "tag": "technology",
+    "description": "Emerging threats and the latest strategies to keep your data safe.",
+    "reel_url": "https://www.youtube.com/shorts/ecbAXFHahtM"
+  },
+  {
+    "id": 10,
+    "title": "Edge Intelligence: Smarter Data Processing",
+    "tag": "technology",
+    "description": "Why edge computing is critical for real‑time analytics and automation.",
+    "reel_url": "https://www.youtube.com/shorts/9RwhIvGbqGE"
+  },
+  {
+    "id": 11,
+    "title": "Champions Rise: The Road to Paris",
+    "tag": "sports",
+    "description": "Follow inspiring athletes preparing for the next Olympic Games.",
+    "reel_url": "https://www.youtube.com/shorts/I2JcGUVJjzQ"
+  },
+  {
+    "id": 12,
+    "title": "Underdog Victories: Football’s Greatest Upsets",
+    "tag": "sports",
+    "description": "Relive the moments when the underdogs shocked the football world.",
+    "reel_url": "https://www.youtube.com/shorts/BojPsURyLPI"
+  },
+  {
+    "id": 13,
+    "title": "Marathon Mindset: Training for Endurance",
+    "tag": "sports",
+    "description": "Explore the mental and physical strategies behind marathon success.",
+    "reel_url": "https://www.youtube.com/shorts/3DEteNH-Oj0"
+  },
+  {
+    "id": 14,
+    "title": "Cricket Legends: Beyond the Boundary",
+    "tag": "sports",
+    "description": "A tribute to cricket’s all-time greats and unforgettable achievements.",
+    "reel_url": "https://www.tiktok.com/@tue.sweet/video/7478492350377889029"
+  },
+  {
+    "id": 15,
+    "title": "Basketball’s New Era: Rising Stars",
+    "tag": "sports",
+    "description": "Meet the young talents redefining the future of basketball.",
+    "reel_url": "https://www.youtube.com/shorts/BWzQyxY36lk"
+  },
+  {
+    "id": 16,
+    "title": "Formula One: The Science of Speed",
+    "tag": "sports",
+    "description": "Dive into the technology and teamwork behind F1 racing.",
+    "reel_url": "https://www.youtube.com/shorts/pTMyqSFTBrg"
+  },
+  {
+    "id": 17,
+    "title": "Tennis Tactics: Mastering the Court",
+    "tag": "sports",
+    "description": "Discover the strategies that separate champions from challengers.",
+    "reel_url": "https://www.youtube.com/shorts/AF41tvjd4qo"
+  },
+  {
+    "id": 18,
+    "title": "Surf’s Up: The World of Big Wave Riding",
+    "tag": "sports",
+    "description": "Experience the thrill and danger of surfing the planet’s biggest waves.",
+    "reel_url": "https://www.youtube.com/shorts/Hc3H0bY33yQ"
+  },
+  {
+    "id": 19,
+    "title": "Fitness Revolution: HIIT Workouts Explained",
+    "tag": "sports",
+    "description": "Why high-intensity interval training is taking over gyms worldwide.",
+    "reel_url": "https://www.youtube.com/shorts/ecbAXFHahtM"
+  },
+  {
+    "id": 20,
+    "title": "The Art of Climbing: Scaling New Heights",
+    "tag": "sports",
+    "description": "A look at the world’s most challenging climbs and the athletes who conquer them.",
+    "reel_url": "https://www.youtube.com/shorts/Nc6TTsOUrUo"
+  },
+  {
+    "id": 21,
+    "title": "Urban Oasis: Designing Green Cities",
+    "tag": "lifestyle",
+    "description": "How architects are transforming cityscapes with sustainable design.",
+    "reel_url": "https://www.youtube.com/shorts/eQDyeHw2Tek"
+  },
+  {
+    "id": 22,
+    "title": "Minimalism: Living with Less",
+    "tag": "lifestyle",
+    "description": "Explore the benefits of decluttering and simplifying your life.",
+    "reel_url": "https://www.youtube.com/shorts/60T_r6F1In0"
+  },
+  {
+    "id": 23,
+    "title": "Home Office Hacks: Productivity Unleashed",
+    "tag": "lifestyle",
+    "description": "Tips and tools for creating your ideal work-from-home environment.",
+    "reel_url": "https://www.youtube.com/shorts/MJ0kL9RiJBk"
+  },
+  {
+    "id": 24,
+    "title": "Fashion Forward: Trends for 2025",
+    "tag": "lifestyle",
+    "description": "A preview of the colors, fabrics, and styles set to dominate the year.",
+    "reel_url": "https://www.youtube.com/shorts/YWIqUM12F4g"
+  },
+  {
+    "id": 25,
+    "title": "Mindful Mornings: Routines That Work",
+    "tag": "lifestyle",
+    "description": "How to start your day with intention and energy.",
+    "reel_url": "https://www.instagram.com/reel/DKGCJTTTHs3/"
+  },
+  {
+    "id": 26,
+    "title": "Pet Parenting: The Modern Guide",
+    "tag": "lifestyle",
+    "description": "Everything you need to know about caring for your furry friends.",
+    "reel_url": "https://www.tiktok.com/@keepingfinn/video/7275494013728312619"
+  },
+  {
+    "id": 27,
+    "title": "Eco-Friendly Living: Small Changes, Big Impact",
+    "tag": "lifestyle",
+    "description": "Simple ways to reduce your carbon footprint every day.",
+    "reel_url": "https://www.youtube.com/shorts/jaD3rezBbes"
+  },
+  {
+    "id": 28,
+    "title": "Digital Detox: Reclaiming Your Time",
+    "tag": "lifestyle",
+    "description": "Strategies for unplugging and reconnecting with what matters.",
+    "reel_url": "https://www.instagram.com/reel/DLISP9AMYk7/"
+  },
+  {
+    "id": 29,
+    "title": "Home Gardening: Urban Green Thumbs",
+    "tag": "lifestyle",
+    "description": "How city dwellers are embracing home-grown produce.",
+    "reel_url": "https://www.instagram.com/reel/DH_dlI9O9Kx/"
+  },
+  {
+    "id": 30,
+    "title": "The Art of Journaling: Creativity Unlocked",
+    "tag": "lifestyle",
+    "description": "Discover how journaling can boost your creativity and well-being.",
+    "reel_url": "https://www.instagram.com/reel/C9POl3AJ00Q/"
+  },
+  {
+    "id": 31,
+    "title": "Hidden Gems: Exploring Lesser-Known Cities",
+    "tag": "travel",
+    "description": "Travel off the beaten path to discover unique destinations.",
+    "reel_url": "https://www.youtube.com/shorts/kNKGUkzSw4E"
+  },
+  {
+    "id": 32,
+    "title": "Solo Adventures: Traveling Alone with Confidence",
+    "tag": "travel",
+    "description": "Tips for making the most of your solo journeys.",
+    "reel_url": "https://www.instagram.com/reel/DFDc_-rKM70/"
+  },
+  {
+    "id": 33,
+    "title": "Luxury on a Budget: Affordable Getaways",
+    "tag": "travel",
+    "description": "How to enjoy five-star experiences without breaking the bank.",
+    "reel_url": "https://www.youtube.com/shorts/AYXYb3S4qz0"
+  },
+  {
+    "id": 34,
+    "title": "Cultural Immersion: Living Like a Local",
+    "tag": "travel",
+    "description": "Experience authentic culture by connecting with local communities.",
+    "reel_url": "https://www.youtube.com/shorts/JQ4LPbBz6PA"
+  },
+  {
+    "id": 35,
+    "title": "Eco-Tourism: Sustainable Travel Choices",
+    "tag": "travel",
+    "description": "Travel responsibly and protect the planet’s natural wonders.",
+    "reel_url": "https://www.youtube.com/shorts/n4qIn7HN76U"
+  },
+  {
+    "id": 36,
+    "title": "Mountain Escapes: The Call of the Peaks",
+    "tag": "travel",
+    "description": "Explore breathtaking mountain destinations around the globe.",
+    "reel_url": "https://www.youtube.com/shorts/suBV3iOB4ms"
+  },
+  {
+    "id": 37,
+    "title": "Island Hopping: Tropical Paradises Await",
+    "tag": "travel",
+    "description": "Discover the world’s most beautiful and secluded islands.",
+    "reel_url": "https://www.youtube.com/shorts/OzyHBTjVc5s"
+  },
+  {
+    "id": 38,
+    "title": "Foodie Travels: Global Culinary Journeys",
+    "tag": "travel",
+    "description": "Sample the world’s best dishes in unforgettable settings.",
+    "reel_url": "https://www.youtube.com/shorts/-nM_9PaG2OA"
+  },
+  {
+    "id": 39,
+    "title": "Historic Trails: Walking Through Time",
+    "tag": "travel",
+    "description": "Follow ancient paths and discover the stories they tell.",
+    "reel_url": "https://www.youtube.com/shorts/enWHIVtN4ZI"
+  },
+  {
+    "id": 40,
+    "title": "Adventure Awaits: Extreme Travel Experiences",
+    "tag": "travel",
+    "description": "Push your limits with these adrenaline-fueled adventures.",
+    "reel_url": "https://www.youtube.com/shorts/BJCb5INCuko"
+  },
+  {
+    "id": 41,
+    "title": "Street Eats: The World’s Best Food Markets",
+    "tag": "food",
+    "description": "Explore vibrant food markets and their delicious offerings.",
+    "reel_url": "https://www.youtube.com/shorts/7xR9KOG4clI"
+  },
+  {
+    "id": 42,
+    "title": "Plant-Based Revolution: Vegan Delights",
+    "tag": "food",
+    "description": "Discover creative and tasty vegan dishes from around the world.",
+    "reel_url": "https://www.youtube.com/shorts/zO5xPaBFBNM"
+  },
+  {
+    "id": 43,
+    "title": "Artisan Breads: The Rise of Sourdough",
+    "tag": "food",
+    "description": "Why sourdough is the bread of choice for foodies everywhere.",
+    "reel_url": "https://www.youtube.com/shorts/ZA_lt-zMeig"
+  },
+  {
+    "id": 44,
+    "title": "Farm to Table: Freshness Redefined",
+    "tag": "food",
+    "description": "How local farms are changing the way we eat.",
+    "reel_url": "https://www.youtube.com/shorts/0zrkwk1byBw"
+  },
+  {
+    "id": 45,
+    "title": "Coffee Culture: Brews from Every Corner",
+    "tag": "food",
+    "description": "A journey through the world’s most unique coffee traditions.",
+    "reel_url": "https://www.instagram.com/reel/DItfw0ogLRp/"
+  },
+  {
+    "id": 46,
+    "title": "Sweet Tooth: Global Dessert Adventures",
+    "tag": "food",
+    "description": "Indulge in decadent desserts from every continent.",
+    "reel_url": "https://www.youtube.com/shorts/co2x7cNDMCA"
+  },
+  {
+    "id": 47,
+    "title": "Street Food Stories: Flavors of Asia",
+    "tag": "food",
+    "description": "Sample the vibrant street foods that define Asian cuisine.",
+    "reel_url": "https://www.youtube.com/shorts/_ZYUoMAomT4"
+  },
+  {
+    "id": 48,
+    "title": "Home Cooking: Comfort Food Classics",
+    "tag": "food",
+    "description": "Rediscover the joy of homemade comfort foods.",
+    "reel_url": "https://www.youtube.com/shorts/cHKgRHl-6aQ"
+  },
+  {
+    "id": 49,
+    "title": "Wine Regions: A Taste of the Vine",
+    "tag": "food",
+    "description": "Explore the world’s most renowned wine-producing regions.",
+    "reel_url": "https://www.youtube.com/shorts/bxoVvv2dHgw"
+  },
+  {
+    "id": 50,
+    "title": "Spice Routes: Culinary History Unveiled",
+    "tag": "food",
+    "description": "Trace the origins of the world’s most beloved spices.",
+    "reel_url": "https://www.youtube.com/shorts/bq95MmRprZI"
+  },
+  {
+    "id": 51,
+    "title": "Wellness Warriors: Building Healthy Habits",
+    "tag": "health",
+    "description": "Simple steps to improve your health and well-being.",
+    "reel_url": "https://www.youtube.com/shorts/tFerv_osAdo"
+  },
+  {
+    "id": 52,
+    "title": "Mind Matters: The Science of Happiness",
+    "tag": "health",
+    "description": "Explore the latest research on mental health and happiness.",
+    "reel_url": "https://www.youtube.com/shorts/YxV1LFP0b_g"
+  },
+  {
+    "id": 53,
+    "title": "Superfoods: Nature’s Powerhouses",
+    "tag": "health",
+    "description": "Discover the health benefits of superfoods from around the world.",
+    "reel_url": "https://www.youtube.com/shorts/nwkhUP9t64A"
+  },
+  {
+    "id": 54,
+    "title": "Yoga for All: Flexibility and Focus",
+    "tag": "health",
+    "description": "How yoga can enhance your physical and mental well-being.",
+    "reel_url": "https://www.youtube.com/shorts/_2J61s3H42M"
+  },
+  {
+    "id": 55,
+    "title": "Sleep Science: Rest for Success",
+    "tag": "health",
+    "description": "Unlock the secrets to better sleep and improved productivity.",
+    "reel_url": "https://www.youtube.com/shorts/3k3uj6hTzBI"
+  },
+  {
+    "id": 56,
+    "title": "Holistic Healing: Alternative Therapies",
+    "tag": "health",
+    "description": "An overview of alternative therapies for mind and body wellness.",
+    "reel_url": "https://www.youtube.com/shorts/QorHl7-_EFc"
+  },
+  {
+    "id": 57,
+    "title": "Heart Health: Keeping Your Ticker Strong",
+    "tag": "health",
+    "description": "Tips for maintaining a healthy heart at any age.",
+    "reel_url": "https://www.youtube.com/shorts/7BiPLhNEC6E"
+  },
+  {
+    "id": 58,
+    "title": "Immunity Boosters: Staying Strong Year-Round",
+    "tag": "health",
+    "description": "Natural ways to strengthen your immune system.",
+    "reel_url": "https://www.youtube.com/shorts/SLKOCSswgPU"
+  },
+  {
+    "id": 59,
+    "title": "Fitness for Life: Movement at Any Age",
+    "tag": "health",
+    "description": "How to stay active and healthy throughout your life.",
+    "reel_url": "https://www.youtube.com/shorts/vZSN9CuhDyY"
+  },
+  {
+    "id": 60,
+    "title": "Nutrition Myths: Fact vs. Fiction",
+    "tag": "health",
+    "description": "Debunking common misconceptions about nutrition.",
+    "reel_url": "https://www.youtube.com/shorts/x6V28DRHKwQ"
+  },
+  {
+    "id": 61,
+    "title": "Startup Stories: From Idea to Impact",
+    "tag": "business",
+    "description": "How entrepreneurs turn big ideas into successful ventures.",
+    "reel_url": "https://www.youtube.com/shorts/8edMzbse76g"
+  },
+  {
+    "id": 62,
+    "title": "Women in Business: Breaking Barriers",
+    "tag": "business",
+    "description": "Celebrating the achievements of women leaders in business.",
+    "reel_url": "https://www.youtube.com/watch?v=ol_WXoUfa7Q"
+  },
+  {
+    "id": 63,
+    "title": "Remote Work: The New Normal",
+    "tag": "business",
+    "description": "How companies are adapting to a remote-first world.",
+    "reel_url": "https://www.youtube.com/shorts/QT7Odzd3E64"
+  },
+  {
+    "id": 64,
+    "title": "Financial Freedom: Smart Investing",
+    "tag": "business",
+    "description": "Strategies for building wealth through smart investments.",
+    "reel_url": "https://www.youtube.com/shorts/JQpAVXGpUTQ"
+  },
+  {
+    "id": 65,
+    "title": "Green Business: Profits with Purpose",
+    "tag": "business",
+    "description": "How companies are balancing profit and sustainability.",
+    "reel_url": "https://www.youtube.com/shorts/Xq0EzcMljpw"
+  },
+  {
+    "id": 66,
+    "title": "Brand Building: Creating Loyal Fans",
+    "tag": "business",
+    "description": "The secrets to building a brand that customers love.",
+    "reel_url": "https://www.youtube.com/shorts/PLzKJi2GjpkE"
+  },
+  {
+    "id": 67,
+    "title": "E-Commerce Evolution: The Future of Shopping",
+    "tag": "business",
+    "description": "How technology is reshaping the retail landscape.",
+    "reel_url": "https://www.youtube.com/shorts/2-xgOhQmF18"
+  },
+  {
+    "id": 68,
+    "title": "Leadership Lessons: Inspiring Teams",
+    "tag": "business",
+    "description": "Key traits and habits of effective leaders.",
+    "reel_url": "https://www.youtube.com/watch?v=C2Tko2rKwVs"
+  },
+  {
+    "id": 69,
+    "title": "Startup Funding: Navigating the Landscape",
+    "tag": "business",
+    "description": "A guide to raising capital for your business.",
+    "reel_url": "https://www.youtube.com/watch?v=LJCEFcr4VgA"
+  },
+  {
+    "id": 70,
+    "title": "The Gig Economy: Work on Your Terms",
+    "tag": "business",
+    "description": "Explore the rise and impact of gig work.",
+    "reel_url": "https://www.youtube.com/shorts/FFVBIj-KJjM"
+  },
+     {
+    "id": 71,
+    "title": "Lifelong Learning: The Power of Curiosity",
+    "tag": "education",
+    "description": "Why curiosity is the key to continuous personal growth.",
+    "reel_url": "https://www.youtube.com/shorts/1leMpgGiGOE"
+  },
+  {
+    "id": 72,
+    "title": "EdTech Revolution: Classrooms Go Digital",
+    "tag": "education",
+    "description": "How technology is transforming education worldwide.",
+    "reel_url": "https://www.youtube.com/watch?v=1SOySp8QJtk"
+  },
+  {
+    "id": 73,
+    "title": "Study Smarter: Techniques for Success",
+    "tag": "education",
+    "description": "Effective study strategies for students of all ages.",
+    "reel_url": "https://www.youtube.com/watch?v=jMhhaAQK1NQ"
+  },
+  {
+    "id": 74,
+    "title": "Online Degrees: The Future of Higher Ed",
+    "tag": "education",
+    "description": "The benefits and challenges of online learning.",
+    "reel_url": "https://www.youtube.com/shorts/pgpDh7x4Pks"
+  },
+  {
+    "id": 75,
+    "title": "Language Learning: Tips for Fluency",
+    "tag": "education",
+    "description": "How to master a new language efficiently.",
+    "reel_url": "https://www.youtube.com/shorts/2IxqSLN_DeU"
+  },
+  {
+    "id": 76,
+    "title": "Creative Classrooms: Inspiring Innovation",
+    "tag": "education",
+    "description": "How creative teaching methods spark innovation.",
+    "reel_url": "https://www.youtube.com/shorts/JR0r2fCP2xE"
+  },
+  {
+    "id": 77,
+    "title": "STEM for Kids: Building Future Innovators",
+    "tag": "education",
+    "description": "Engaging children in science, technology, engineering, and math.",
+    "reel_url": "https://www.youtube.com/shorts/RpTcC0FPYuE"
+  },
+  {
+    "id": 78,
+    "title": "Financial Literacy: Skills for Life",
+    "tag": "education",
+    "description": "Essential financial skills every student should learn.",
+    "reel_url": "https://www.youtube.com/shorts/B-8mDds1UTA"
+  },
+  {
+    "id": 79,
+    "title": "Exam Stress: Coping Strategies",
+    "tag": "education",
+    "description": "Practical tips for managing exam anxiety.",
+    "reel_url": "https://www.youtube.com/shorts/sO886PAMFyY"
+  },
+  {
+    "id": 80,
+    "title": "Global Classrooms: Learning Without Borders",
+    "tag": "education",
+    "description": "How international collaboration is shaping modern education.",
+    "reel_url": "https://www.youtube.com/shorts/iWq_cemUcaI"
+  },
+  {
+    "id": 81,
+    "title": "Streaming Wars: The Battle for Viewers",
+    "tag": "entertainment",
+    "description": "How streaming platforms are changing the entertainment industry.",
+    "short_url": "https://www.youtube.com/shorts/Bk0YoYreFec"
+  },
+  {
+    "id": 82,
+    "title": "Indie Films: Stories That Matter",
+    "tag": "entertainment",
+    "description": "Celebrating independent filmmakers and their unique visions.",
+    "short_url": "https://www.instagram.com/reel/CuVvw49MGo3/"
+  },
+  {
+    "id": 83,
+    "title": "Music Festivals: The Ultimate Experience",
+    "tag": "entertainment",
+    "description": "A look at the world’s most iconic music festivals.",
+    "short_url": "https://www.youtube.com/shorts/Zohc-BqjYmc"
+  },
+  {
+    "id": 84,
+    "title": "Comedy Gold: Stand-Up’s Brightest Stars",
+    "tag": "entertainment",
+    "description": "Meet the comedians making audiences laugh worldwide.",
+    "short_url": "https://www.instagram.com/reel/CzRtpZpLVDM/"
+  },
+  {
+    "id": 85,
+    "title": "The Art of Animation: Behind the Scenes",
+    "tag": "entertainment",
+    "description": "Discover the creative process behind your favorite animated films.",
+    "short_url": "https://www.youtube.com/shorts/G9OwxkKh15I"
+  },
+  {
+    "id": 91,
+    "title": "Space Race: Private Companies Take Off",
+    "tag": "science",
+    "description": "How private enterprises are shaping the future of space exploration.",
+    "short_url": "https://www.youtube.com/shorts/ChQ_BI1jDEU"
+  },
+  {
+    "id": 92,
+    "title": "Climate Change: Innovations for a Cooler Planet",
+    "tag": "science",
+    "description": "The latest breakthroughs in climate science and technology.",
+    "short_url": "https://www.youtube.com/shorts/YD0K1TGTPoA"
+  },
+  {
+    "id": 93,
+    "title": "Genetics Unlocked: The Future of Medicine",
+    "tag": "science",
+    "description": "How genetic research is revolutionizing healthcare.",
+    "short_url": "https://www.youtube.com/shorts/I0RtpXlB8fI"
+  },
+  {
+    "id": 94,
+    "title": "Deep Sea Mysteries: Exploring the Abyss",
+    "tag": "science",
+    "description": "A journey into the unexplored depths of the world’s oceans.",
+    "short_url": "https://www.youtube.com/shorts/KGpmDaKrDCI"
+  },
+  {
+    "id": 95,
+    "title": "Renewable Energy: Powering the Future",
+    "tag": "science",
+    "description": "How solar, wind, and other renewables are changing the energy landscape.",
+    "short_url": "https://www.youtube.com/shorts/DpPtkNzGVzQ"
+  },
+  {
+    "id": 96,
+    "title": "Robotics Revolution: Machines That Learn",
+    "tag": "science",
+    "description": "The rise of intelligent robots in everyday life.",
+    "short_url": "https://www.youtube.com/shorts/RVnG96YV8tE"
+  },
+  {
+    "id": 97,
+    "title": "Brain Science: Mapping the Mind",
+    "tag": "science",
+    "description": "Uncovering the secrets of the human brain through neuroscience.",
+    "short_url": "https://www.youtube.com/shorts/bQHUPPyNnkA"
+  },
+  {
+    "id": 98,
+    "title": "Wildlife Wonders: Conservation Success Stories",
+    "tag": "science",
+    "description": "Celebrating the victories in wildlife conservation.",
+    "short_url": "https://www.youtube.com/shorts/oCnhAtDZU58"
+  },
+  {
+    "id": 99,
+    "title": "Nanotechnology: Small Solutions, Big Impact",
+    "tag": "science",
+    "description": "How nanotech is solving some of the world’s biggest challenges.",
+    "short_url": "https://www.youtube.com/shorts/qTwE8rFJhv0"
+  },
+  {
+    "id": 100,
+    "title": "Medical Marvels: Breakthrough Treatments",
+    "tag": "science",
+    "description": "The latest advancements in medical treatment and technology.",
+    "short_url": "https://www.youtube.com/shorts/HYvvJc2-3ME"
+  },
   {
     "id": 101,
     "title": "Smart Textiles: Fashion Meets Technology",

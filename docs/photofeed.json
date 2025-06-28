@@ -189,12 +189,12 @@
     "image_url": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=300&h=200&fit=crop"
   },
   {
-    "id": 28,
-    "title": "Cricket's Greatest Rivalries #3",
-    "tag": "sports",
-    "description": "An inside look at cricket's most intense matchups. (Post 3)",
-    "image_url": "https://images.pexels.com/photos/1578269/pexels-photo-1578269.jpeg?auto=compress&cs=tinysrgb&w=300&h=200&fit=crophttps://img.etimg.com/thumb/width-1200%2Cheight-1200%2Cimgsize-27876%2Cresizemode-75%2Cmsid-118484959/news/sports/money-history-passion-why-india-pakistan-cricket-rivalry-is-unmatched.jpg"
-  },
+  "id": 28,
+  "title": "Cricket's Greatest Rivalries #3",
+  "tag": "sports",
+  "description": "An inside look at cricket's most intense matchups. (Post 3)",
+  "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-27876,resizemode-75,msid-118484959/news/sports/money-history-passion-why-india-pakistan-cricket-rivalry-is-unmatched.jpg"
+},
   {
     "id": 29,
     "title": "The Science of Sports Recovery #4",
@@ -706,12 +706,12 @@
     "image_url": "https://img-cdn.publive.online/fit-in/1280x960/filters:format(webp)/tice-news-prod/media/media_files/2025/01/03/0jhiBdgVsFJxvnmHyBrT.jpg"
   },
   {
-    "id": 102,
-    "title": "Remote Work Culture Post-COVID #2",
-    "tag": "business",
-    "description": "Why companies are ditching offices for good. (Post 2)",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWv0JtWD23SMd5MehtUC58W-8ClbZF80yQZg&s"
-  },
+  "id": 102,
+  "title": "Remote Work Culture Post-COVID #2",
+  "tag": "business",
+  "description": "Why companies are ditching offices for good. (Post 2)",
+  "image_url": "https://images.unsplash.com/photo-1587614382346-4ecb3f9f2c07"
+},
   {
     "id": 103,
     "title": "How to Nail Your First Pitch #3",
@@ -720,19 +720,19 @@
     "image_url": "https://d1eipm3vz40hy0.cloudfront.net/images/AMER/salespitch77.png"
   },
   {
-    "id": 104,
-    "title": "The Rise of Green Businesses #4",
-    "tag": "business",
-    "description": "Making sustainability profitable. (Post 4)",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_UwRChyBZVtbRMjvQFbZgpThhuse8aPh0rg&s"
-  },
-  {
-    "id": 105,
-    "title": "Startup Funding 101 #5",
-    "tag": "business",
-    "description": "From angel investors to venture capital. (Post 5)",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6KjnQ3ry-Ch8s7k6gOJMg7w_bX7kkfHzLDQ&s"
-  },
+  "id": 104,
+  "title": "The Rise of Green Businesses #4",
+  "tag": "business",
+  "description": "Making sustainability profitable. (Post 4)",
+  "image_url": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a"
+},
+{
+  "id": 105,
+  "title": "Startup Funding 101 #5",
+  "tag": "business",
+  "description": "From angel investors to venture capital. (Post 5)",
+  "image_url": "https://images.unsplash.com/photo-1592496001020-e524fc739696"
+},
   {
     "id": 106,
     "title": "What Makes a Good Entrepreneur? #6",
@@ -741,19 +741,19 @@
     "image_url": "https://online.hbs.edu/PublishingImages/Characteristics-Successful-Entrepreneurs.png"
   },
   {
-    "id": 107,
-    "title": "How to Validate a Business Idea #7",
-    "tag": "business",
-    "description": "Avoid wasting time on the wrong idea. (Post 7)",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtPtppJeNC-uA3_yPBDpCnNLaZ4p3TamlMnw&s"
-  },
-  {
-    "id": 108,
-    "title": "Freelancing vs Full-Time Work #8",
-    "tag": "business",
-    "description": "Pros and cons of modern work options. (Post 8)",
-    "image_url": "https://hr1tech.com//htdocs/images/owners/hr1tech/hr1tech-social-28-8.png"
-  },
+  "id": 107,
+  "title": "How to Validate a Business Idea #7",
+  "tag": "business",
+  "description": "Avoid wasting time on the wrong idea. (Post 7)",
+  "image_url": "https://images.unsplash.com/photo-1531497865144-0464ef8fb9a1"
+},
+{
+  "id": 108,
+  "title": "Freelancing vs Full-Time Work #8",
+  "tag": "business",
+  "description": "Pros and cons of modern work options. (Post 8)",
+  "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
+},
   {
     "id": 109,
     "title": "Creating a Winning Product Strategy #9",
@@ -762,12 +762,12 @@
     "image_url": "https://amoeboids.com/wp-content/uploads/2023/02/Steps-to-Create-Effective-Product-Strategy-infographic2.webp"
   },
   {
-    "id": 110,
-    "title": "Leadership Styles Explained #10",
-    "tag": "business",
-    "description": "Which one suits you best? (Post 10)",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2A2kE-pLZPAZg7G5NDZ1yjcGJ89kQTY5t6A&s"
-  },
+  "id": 110,
+  "title": "Leadership Styles Explained #10",
+  "tag": "business",
+  "description": "Which one suits you best? (Post 10)",
+  "image_url": "https://images.unsplash.com/photo-1560264418-c4445382edbc"
+},
   {
     "id": 111,
     "title": "Building a Startup in 2025 #11",
@@ -1056,12 +1056,12 @@
         "image_url": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b"
     },
     {
-        "id": 152,
-        "title": "Sustainable Clothing Brands #2",
-        "tag": "fashion",
-        "description": "Eco-friendly companies that are changing the industry. (Post 2)",
-        "image_url": "https://www.dreamstime.com/362573824"
-    },
+  "id": 152,
+  "title": "Sustainable Clothing Brands #2",
+  "tag": "fashion",
+  "description": "Eco-friendly companies that are changing the industry. (Post 2)",
+  "image_url": "https://images.unsplash.com/photo-1603252109303-2751441dd157"
+},
     {
         "id": 153,
         "title": "Building a Capsule Wardrobe #3",
@@ -1126,12 +1126,12 @@
         "image_url": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b"
     },
     {
-        "id": 162,
-        "title": "Sustainable Clothing Brands #12",
-        "tag": "fashion",
-        "description": "Eco-friendly companies that are changing the industry. (Post 12)",
-        "image_url": "https://www.dreamstime.com/362573824"
-    },
+  "id": 162,
+  "title": "Sustainable Clothing Brands #12",
+  "tag": "fashion",
+  "description": "Eco-friendly companies that are changing the industry. (Post 12)",
+  "image_url": "https://images.unsplash.com/photo-1603252109303-2751441dd157"
+},
     {
         "id": 163,
         "title": "Building a Capsule Wardrobe #13",
@@ -1195,13 +1195,13 @@
         "description": "What's hot and what's not this season. (Post 21)",
         "image_url": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b"
     },
-    {
-        "id": 172,
-        "title": "Sustainable Clothing Brands #22",
-        "tag": "fashion",
-        "description": "Eco-friendly companies that are changing the industry. (Post 22)",
-        "image_url": "https://www.dreamstime.com/362573824"
-    },
+   {
+  "id": 172,
+  "title": "Sustainable Clothing Brands #22",
+  "tag": "fashion",
+  "description": "Eco-friendly companies that are changing the industry. (Post 22)",
+  "image_url": "https://images.unsplash.com/photo-1603252109303-2751441dd157"
+},
     {
         "id": 173,
         "title": "Building a Capsule Wardrobe #23",

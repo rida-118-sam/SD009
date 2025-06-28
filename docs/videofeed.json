@@ -356,139 +356,139 @@
 "description": "Learn the key steps and mindset to launch a successful startup.",
 "video_url": "https://www.youtube.com/watch?v=CBYhVcO4WgI"
 },
-{
-"id": 52,
-"title": "Understanding Business Models",
-"tag": "business",
-"description": "An overview of the most effective business models and how they work.",
-"video_url": "https://www.youtube.com/watch?v=IPYeCltXpxw"
-},
-{
-"id": 53,
-"title": "The Future of Entrepreneurship",
-"tag": "business",
-"description": "Explore emerging trends in global entrepreneurship.",
-"video_url": "https://www.youtube.com/watch?v=Q3fK9QzFhQY"
-},
-{
-"id": 54,
-"title": "Building a Strong Brand",
-"tag": "business",
-"description": "How to create and grow a brand that stands out.",
-"video_url": "https://www.youtube.com/watch?v=L9gnnRU0nK8"
-},
-{
-"id": 55,
-"title": "Investing 101: Grow Your Money",
-"tag": "business",
-"description": "A beginner's guide to smart investing and growing wealth.",
-"video_url": "https://www.youtube.com/watch?v=sSKXQYZiy6M"
-},
-{
-"id": 56,
-"title": "What is Venture Capital?",
-"tag": "business",
-"description": "Understand how VC firms work and how startups get funded.",
-"video_url": "https://www.youtube.com/watch?v=Qh_2i7w7RZg"
-},
-{
-"id": 57,
-"title": "Marketing for Small Businesses",
-"tag": "business",
-"description": "Top marketing strategies for small and medium enterprises.",
-"video_url": "https://www.youtube.com/watch?v=T0vZqv4fvQA"
-},
-{
-"id": 58,
-"title": "Business Ethics Explained",
-"tag": "business",
-"description": "Why ethical practices are crucial in today’s business world.",
-"video_url": "https://www.youtube.com/watch?v=IdKMF1ZT_Pk"
-},
-{
-"id": 59,
-"title": "How to Pitch to Investors",
-"tag": "business",
-"description": "Craft and deliver a pitch that grabs investor attention.",
-"video_url": "https://www.youtube.com/watch?v=gY0nNKsA2eU"
-},
-{
-"id": 60,
-"title": "Remote Work and the Modern Workplace",
-"tag": "business",
-"description": "Explore how businesses are adapting to the remote work era.",
-"video_url": "https://www.youtube.com/watch?v=szvE6WhUbwA"
-},
-{
-"id": 61,
-"title": "Business Analytics for Beginners",
-"tag": "business",
-"description": "Learn how data can drive smart business decisions.",
-"video_url": "https://www.youtube.com/watch?v=F1rZD5sM3pI"
-},
-{
-"id": 62,
-"title": "Dropshipping: The Truth",
-"tag": "business",
-"description": "An honest take on what it takes to succeed with dropshipping.",
-"video_url": "https://www.youtube.com/watch?v=7FxQ3e9y6Xo"
-},
-{
-"id": 63,
-"title": "Leadership Lessons from Top CEOs",
-"tag": "business",
-"description": "Insights from leading CEOs on running successful companies.",
-"video_url": "https://www.youtube.com/watch?v=ttvXg6Jm2BQ"
-},
-{
-"id": 64,
-"title": "E-commerce Success Stories",
-"tag": "business",
-"description": "How entrepreneurs built thriving online stores.",
-"video_url": "https://www.youtube.com/watch?v=sVCeUb7g_NI"
-},
-{
-"id": 65,
-"title": "How Franchising Works",
-"tag": "business",
-"description": "Understand the pros and cons of starting a franchise.",
-"video_url": "https://www.youtube.com/watch?v=6UEdZStnHhQ"
-},
-{
-"id": 66,
-"title": "The Gig Economy Explained",
-"tag": "business",
-"description": "How freelancing and gig work are reshaping the job market.",
-"video_url": "https://www.youtube.com/watch?v=PlEkE3yaR6I"
-},
-{
-"id": 67,
-"title": "Digital Marketing in 2025",
-"tag": "business",
-"description": "Predictions and tools shaping the future of marketing.",
-"video_url": "https://www.youtube.com/watch?v=MAI2N96O_VA"
-},
-{
-"id": 68,
-"title": "Financial Planning for Entrepreneurs",
-"tag": "business",
-"description": "Manage your money and build a sustainable business.",
-"video_url": "https://www.youtube.com/watch?v=VBRH1ZnKJb8"
-},
-{
-"id": 69,
-"title": "Global Business Trends",
-"tag": "business",
-"description": "A look at economic forces reshaping global markets.",
-"video_url": "https://www.youtube.com/watch?v=IHFh4XYQqkA"
-},
-{
-"id": 70,
-"title": "Scaling Your Startup",
-"tag": "business",
-"description": "How to go from a small team to a high-growth company.",
-"video_url": "https://www.youtube.com/watch?v=YH-E4Y3EaT4"
-},
+  {
+    "id": 52,
+    "title": "Understanding Business Models",
+    "tag": "business",
+    "description": "An overview of the most effective business models and how they work.",
+    "video_url": "https://www.youtube.com/watch?v=IPYeCltXpxw"
+  },
+  {
+    "id": 53,
+    "title": "The Future of Entrepreneurship",
+    "tag": "business",
+    "description": "Explore emerging trends in global entrepreneurship.",
+    "video_url": "https://www.youtube.com/watch?v=Q3fK9QzFhQY"
+  },
+  {
+    "id": 54,
+    "title": "Building a Strong Brand",
+    "tag": "business",
+    "description": "How to create and grow a brand that stands out.",
+    "video_url": "https://www.youtube.com/watch?v=L9gnnRU0nK8"
+  },
+  {
+    "id": 55,
+    "title": "Investing 101: Grow Your Money",
+    "tag": "business",
+    "description": "A beginner's guide to smart investing and growing wealth.",
+    "video_url": "https://www.youtube.com/watch?v=sSKXQYZiy6M"
+  },
+  {
+    "id": 56,
+    "title": "What is Venture Capital?",
+    "tag": "business",
+    "description": "Understand how VC firms work and how startups get funded.",
+    "video_url": "https://www.youtube.com/watch?v=Qh_2i7w7RZg"
+  },
+  {
+    "id": 57,
+    "title": "Marketing for Small Businesses",
+    "tag": "business",
+    "description": "Top marketing strategies for small and medium enterprises.",
+    "video_url": "https://www.youtube.com/watch?v=T0vZqv4fvQA"
+  },
+  {
+    "id": 58,
+    "title": "Business Ethics Explained",
+    "tag": "business",
+    "description": "Why ethical practices are crucial in today’s business world.",
+    "video_url": "https://www.youtube.com/watch?v=IdKMF1ZT_Pk"
+  },
+  {
+    "id": 59,
+    "title": "How to Pitch to Investors",
+    "tag": "business",
+    "description": "Craft and deliver a pitch that grabs investor attention.",
+    "video_url": "https://www.youtube.com/watch?v=gY0nNKsA2eU"
+  },
+  {
+    "id": 60,
+    "title": "Remote Work and the Modern Workplace",
+    "tag": "business",
+    "description": "Explore how businesses are adapting to the remote work era.",
+    "video_url": "https://www.youtube.com/watch?v=szvE6WhUbwA"
+  },
+  {
+    "id": 61,
+    "title": "Business Analytics for Beginners",
+    "tag": "business",
+    "description": "Learn how data can drive smart business decisions.",
+    "video_url": "https://www.youtube.com/watch?v=F1rZD5sM3pI"
+  },
+  {
+    "id": 62,
+    "title": "Dropshipping: The Truth",
+    "tag": "business",
+    "description": "An honest take on what it takes to succeed with dropshipping.",
+    "video_url": "https://www.youtube.com/watch?v=7FxQ3e9y6Xo"
+  },
+  {
+    "id": 63,
+    "title": "Leadership Lessons from Top CEOs",
+    "tag": "business",
+    "description": "Insights from leading CEOs on running successful companies.",
+    "video_url": "https://www.youtube.com/watch?v=ttvXg6Jm2BQ"
+  },
+  {
+    "id": 64,
+    "title": "E-commerce Success Stories",
+    "tag": "business",
+    "description": "How entrepreneurs built thriving online stores.",
+    "video_url": "https://www.youtube.com/watch?v=sVCeUb7g_NI"
+  },
+  {
+    "id": 65,
+    "title": "How Franchising Works",
+    "tag": "business",
+    "description": "Understand the pros and cons of starting a franchise.",
+    "video_url": "https://www.youtube.com/watch?v=6UEdZStnHhQ"
+  },
+  {
+    "id": 66,
+    "title": "The Gig Economy Explained",
+    "tag": "business",
+    "description": "How freelancing and gig work are reshaping the job market.",
+    "video_url": "https://www.youtube.com/watch?v=PlEkE3yaR6I"
+  },
+  {
+    "id": 67,
+    "title": "Digital Marketing in 2025",
+    "tag": "business",
+    "description": "Predictions and tools shaping the future of marketing.",
+    "video_url": "https://www.youtube.com/watch?v=MAI2N96O_VA"
+  },
+  {
+    "id": 68,
+    "title": "Financial Planning for Entrepreneurs",
+    "tag": "business",
+    "description": "Manage your money and build a sustainable business.",
+    "video_url": "https://www.youtube.com/watch?v=VBRH1ZnKJb8"
+  },
+  {
+    "id": 69,
+    "title": "Global Business Trends",
+    "tag": "business",
+    "description": "A look at economic forces reshaping global markets.",
+    "video_url": "https://www.youtube.com/watch?v=IHFh4XYQqkA"
+  },
+  {
+    "id": 70,
+    "title": "Scaling Your Startup",
+    "tag": "business",
+    "description": "How to go from a small team to a high-growth company.",
+    "video_url": "https://www.youtube.com/watch?v=YH-E4Y3EaT4"
+  },
   {
     "id": 71,
     "title": "How to Negotiate Your Salary: Watch and Learn",

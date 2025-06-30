@@ -4,42 +4,42 @@
     "title": "Quantum Leap: Next-Gen Computing",
     "tag": "technology",
     "description": "Discover the untapped potential of quantum algorithms for real‑world applications.",
-    "reel_url": "https://www.youtube.com/shorts/B0eSinctAcs"
+    "reel_url": "https://www.youtube.com/watch?v=B0eSinctAcs"
   },
   {
     "id": 2,
     "title": "Python Powerhouses: Libraries Redefining Code",
     "tag": "technology",
     "description": "Meet the new Python libraries that are changing how developers solve complex problems.",
-    "reel_url": "https://www.youtube.com/shorts/8T1VLX1Y5eQ"
+    "reel_url": "https://www.youtube.com/watch?v=8T1VLX1Y5eQ"
   },
   {
     "id": 3,
     "title": "Smart Living: AI at Home",
     "tag": "technology",
     "description": "From smart fridges to voice assistants, see how AI is making homes more efficient.",
-    "reel_url": "https://www.youtube.com/shorts/3ASqsr81nMs"
+    "reel_url": "https://www.youtube.com/watch?v=3ASqsr81nMs"
   },
- {
-  "id": 4,
-  "title": "AI and Accountability: Navigating New Frontiers",
-  "tag": "technology",
-  "description": "A fresh look at transparency and responsibility in artificial intelligence.",
-  "reel_url": "https://www.youtube.com/watch?v=GGEuub5jBQ8"
-},
-{
-  "id": 5,
-  "title": "Wireless Revolution: Beyond 6G",
-  "tag": "technology",
-  "description": "Explore the innovations paving the way for ultra-fast, hyper-connected societies.",
-  "reel_url": "https://www.youtube.com/watch?v=k3IW3iBThHg"
-},
+  {
+    "id": 4,
+    "title": "AI and Accountability: Navigating New Frontiers",
+    "tag": "technology",
+    "description": "A fresh look at transparency and responsibility in artificial intelligence.",
+    "reel_url": "https://www.youtube.com/watch?v=GGEuub5jBQ8"
+  },
+  {
+    "id": 5,
+    "title": "Wireless Revolution: Beyond 6G",
+    "tag": "technology",
+    "description": "Explore the innovations paving the way for ultra-fast, hyper-connected societies.",
+    "reel_url": "https://www.youtube.com/watch?v=k3IW3iBThHg"
+  },
   {
     "id": 6,
     "title": "Blockchain Unchained: Real-World Impact",
     "tag": "technology",
     "description": "How decentralized ledgers are transforming industries from finance to healthcare.",
-    "reel_url": "https://www.youtube.com/shorts/W21tUYTIEHg"
+    "reel_url": "https://www.youtube.com/watch?v=W21tUYTIEHg"
   },
   {
     "id": 7,
@@ -49,305 +49,305 @@
     "reel_url": "https://www.youtube.com/watch?v=aT9ElBQ-Ug4"
   },
   {
-  "id": 8,
-  "title": "Startup Disruptors: The 2025 Watchlist",
-  "tag": "technology",
-  "description": "Profiles of startups poised to disrupt their industries with bold new ideas.",
-  "reel_url": "https://www.youtube.com/watch?v=c59P3KfzK3M"
-},
+    "id": 8,
+    "title": "Startup Disruptors: The 2025 Watchlist",
+    "tag": "technology",
+    "description": "Profiles of startups poised to disrupt their industries with bold new ideas.",
+    "reel_url": "https://www.youtube.com/watch?v=c59P3KfzK3M"
+  },
   {
     "id": 9,
     "title": "Digital Defense: Cybersecurity in 2025",
     "tag": "technology",
     "description": "Emerging threats and the latest strategies to keep your data safe.",
-    "reel_url": "https://www.youtube.com/shorts/ecbAXFHahtM"
+    "reel_url": "https://www.youtube.com/watch?v=ecbAXFHahtM"
   },
   {
     "id": 10,
     "title": "Edge Intelligence: Smarter Data Processing",
     "tag": "technology",
     "description": "Why edge computing is critical for real‑time analytics and automation.",
-    "reel_url": "https://www.youtube.com/shorts/9RwhIvGbqGE"
+    "reel_url": "https://www.youtube.com/watch?v=9RwhIvGbqGE"
   },
   {
     "id": 11,
     "title": "Neural Networks: Beyond the Basics",
     "tag": "technology",
     "description": "Explore how advanced neural networks are pushing the limits of AI.",
-    "reel_url": "https://www.youtube.com/shorts/yXZkKJkdhZg"  
+    "reel_url": "https://www.youtube.com/watch?v=fa1vQqUGynI"  
   },
   {
     "id": 12,
     "title": "The Rise of Quantum Internet",
     "tag": "technology",
     "description": "See how quantum entanglement may redefine global communication.",
-    "reel_url": "https://www.youtube.com/shorts/1uazUOzFvqE"  
+    "reel_url": "https://www.youtube.com/watch?v=qTFeefqAZEk"  
   },
   {
     "id": 13,
     "title": "BioTech Breakthroughs: Human-Machine Synergy",
     "tag": "technology",
     "description": "How bioengineering and AI are creating human enhancement solutions.",
-    "reel_url": "https://www.youtube.com/shorts/YHwHYo7VvS0"
+    "reel_url": "https://youtu.be/ULLPLVkbom4"
   },
   {
     "id": 14,
     "title": "Green Tech: Sustainable Innovations",
     "tag": "technology",
     "description": "Technology leading the charge toward a more eco-conscious world.",
-    "reel_url": "https://www.youtube.com/shorts/kXez0FsoRRs"
+    "reel_url": "https://youtu.be/O0FvnWrM3oA"
   },
   {
     "id": 15,
     "title": "The Metaverse Movement",
     "tag": "technology",
     "description": "A glimpse into immersive virtual worlds shaping the future.",
-    "reel_url": "https://www.youtube.com/shorts/A9mYMnQoMEI"
+    "reel_url": "https://youtu.be/3kN_QovMHFU"
   },
   {
     "id": 16,
     "title": "Digital Twins: Simulating Reality",
     "tag": "technology",
     "description": "How industries use virtual replicas to test and innovate faster.",
-    "reel_url": "https://www.youtube.com/shorts/dtJmcxPpOdU"
+    "reel_url": "https://www.youtube.com/watch?v=Ke3f0qVwAA4"
   },
   {
     "id": 17,
     "title": "AI in Space Exploration",
     "tag": "technology",
     "description": "The role of intelligent systems in guiding space missions.",
-    "reel_url": "https://www.youtube.com/shorts/GR9zn3Xai7M"
+    "reel_url": "https://youtu.be/F7i48mrWCQI"
   },
   {
     "id": 18,
     "title": "5G to 10G: The Connectivity Ladder",
     "tag": "technology",
     "description": "How high-speed networks are evolving and what it means for the future.",
-    "reel_url": "https://www.youtube.com/shorts/pkM5GLnBpxQ"
+    "reel_url": "https://youtu.be/T-oPUn3yS-Q"
   },
   {
     "id": 19,
     "title": "Low-Code Revolution",
     "tag": "technology",
     "description": "Tools making app development easier and more accessible than ever.",
-    "reel_url": "https://www.youtube.com/shorts/M9LQqF9JL9I"
+    "reel_url": "https://www.youtube.com/watch?v=gWJmd03xSBQ&utm_source=chatgpt.com"
   },
   {
     "id": 20,
     "title": "Robotics Reimagined",
     "tag": "technology",
     "description": "How robots are evolving in design, dexterity, and decision-making.",
-    "reel_url": "https://www.youtube.com/shorts/Z2Tgz5ZCd7A"
+    "reel_url": "https://www.youtube.com/watch?v=l5M4sqaRd6w&utm_source=chatgpt.com"
   },
   {
     "id": 21,
     "title": "Synthetic Media: The Age of Deepfakes",
     "tag": "technology",
     "description": "The fascinating and risky world of AI-generated content.",
-    "reel_url": "https://www.youtube.com/shorts/gGDztUhvFrY"
+    "reel_url": "https://youtu.be/a11u0JdRd_A"
   },
   {
     "id": 22,
     "title": "Smart Cities: Urban Tech in Action",
     "tag": "technology",
     "description": "How cities are getting smarter with sensors, data, and AI.",
-    "reel_url": "https://www.youtube.com/shorts/zbd4l0YlNuY"
+    "reel_url": "https://youtu.be/MITKIVJPQ04"
   },
   {
     "id": 23,
     "title": "Generative AI: Creating the Future",
     "tag": "technology",
     "description": "AI models now generate images, text, and music at scale.",
-    "reel_url": "https://www.youtube.com/shorts/lF8JWRM_sIk"
+    "reel_url": "https://youtu.be/rwF-X5STYks"
   },
   {
     "id": 24,
     "title": "Quantum Sensors: Precision Redefined",
     "tag": "technology",
     "description": "New levels of accuracy in navigation, imaging, and diagnostics.",
-    "reel_url": "https://www.youtube.com/shorts/H0htY4iO-Us"
+    "reel_url": "https://youtu.be/UEM9HxPdqII"
   },
   {
     "id": 25,
     "title": "Autonomous Everything",
     "tag": "technology",
     "description": "Drones, cars, and more – how autonomy is reshaping industries.",
-    "reel_url": "https://www.youtube.com/shorts/Fp6u2tIb3fY"
+    "reel_url": "https://youtu.be/Mqfg9LL_Nms"
   },
   {
     "id": 26,
     "title": "Skydiving Rush: Soaring Above Limits",
     "tag": "sports",
     "description": "Feel the adrenaline as skydivers push boundaries against breathtaking backdrops.",
-    "reel_url": "https://www.youtube.com/shorts/SkydiveRush123"
+    "reel_url": "https://youtu.be/2LtisDspBFo"
   },
   {
     "id": 27,
     "title": "Snowboard Flair: Tricks on the Slopes",
     "tag": "sports",
     "description": "Watch top snowboarders carve fresh powder with jaw‑dropping style.",
-    "reel_url": "https://www.youtube.com/shorts/SnowboardFlair456"
+    "reel_url": "https://youtu.be/5ca-GP7Iy7E"
   },
   {
     "id": 28,
     "title": "Rock Running: Trails to the Summit",
     "tag": "sports",
     "description": "Trail runners tackle rugged terrain in their race to the peak.",
-    "reel_url": "https://www.youtube.com/shorts/RockRunning789"
+    "reel_url": "https://youtu.be/zqBtE6VO_3Y"
   },
   {
     "id": 29,
     "title": "Boxing Brilliance: Footwork & Power",
     "tag": "sports",
     "description": "Inside the gym where precision footwork meets knockout power.",
-    "reel_url": "https://www.youtube.com/shorts/BoxingBrilliance101"
+    "reel_url": "https://www.youtube.com/watch?v=-bqD-I_SPGw"
   },
   {
     "id": 30,
     "title": "Gymnastics Grace: Airborne Artistry",
     "tag": "sports",
     "description": "See gravity-defying flips and balletic strength in motion.",
-    "reel_url": "https://www.youtube.com/shorts/GymnasticsGrace202"
+    "reel_url": "https://youtu.be/UlVGad_lnsI"
   },
   {
     "id": 31,
     "title": "Wilderness Surfing: River Waves Unleashed",
     "tag": "sports",
     "description": "Surfers ride intense river standing waves in remote locations.",
-    "reel_url": "https://www.youtube.com/shorts/RiverSurfing303"
+    "reel_url": "https://youtu.be/ye0KLp1lv6w"
   },
   {
     "id": 32,
     "title": "Parkour Pulse: Urban Movement",
     "tag": "sports",
     "description": "Traceurs flow through cityscapes with seamless motion.",
-    "reel_url": "https://www.youtube.com/shorts/ParkourPulse404"
+    "reel_url": "https://youtu.be/1vp84CUVcuI"
   },
   {
     "id": 33,
     "title": "Underwater Heroes: Freediving Depths",
     "tag": "sports",
     "description": "Freedivers descend to serene depths on a single breath.",
-    "reel_url": "https://www.youtube.com/shorts/Freediving505"
+    "reel_url": "https://youtu.be/WFlSO4F6A3c"
   },
   {
     "id": 34,
     "title": "Speed Skating: Ice‑bound Velocity",
     "tag": "sports",
     "description": "Elite skaters chase records on razor‑sharp blades.",
-    "reel_url": "https://www.youtube.com/shorts/SpeedSkating606"
+    "reel_url": "https://www.youtube.com/watch?v=4OsSKoH_bQE"
   },
   {
     "id": 35,
     "title": "Ultimate Frisbee: Teamwork in Flight",
     "tag": "sports",
     "description": "Fast‑paced plays and aerial catches on grass fields.",
-    "reel_url": "https://www.youtube.com/shorts/UltimateFrisbee707"
+    "reel_url": "https://youtu.be/OjU0Kqqtr6Y"
   },
   {
     "id": 36,
     "title": "Kayak Kinetics: Rapids Challenge",
     "tag": "sports",
     "description": "Kayakers carve through whitewater with fierce determination.",
-    "reel_url": "https://www.youtube.com/shorts/KayakKinetics808"
+    "reel_url": "https://youtu.be/mLip02MXI_g"
   },
   {
     "id": 37,
     "title": "Park Golf: Precision on the Green",
     "tag": "sports",
     "description": "See how precision meets fun in this fast-growing sport.",
-    "reel_url": "https://www.youtube.com/shorts/ParkGolf909"
+    "reel_url": "https://youtu.be/PfcGhEMSzpw"
   },
   {
     "id": 38,
     "title": "Aerial Silks: Strength in the Air",
     "tag": "sports",
     "description": "Athletes showcase strength and grace high off the ground.",
-    "reel_url": "https://www.youtube.com/shorts/AerialSilks111"
+    "reel_url": "https://youtu.be/UeBfGv0ZaDQ"
   },
   {
     "id": 39,
     "title": "Mountain Biking: Downhill Rush",
     "tag": "sports",
     "description": "Riders tackle steep trails and rocky descents at full speed.",
-    "reel_url": "https://www.youtube.com/shorts/MountainBiking222"
+    "reel_url": "https://youtu.be/s3_SZ4o_FfU"
   },
   {
     "id": 40,
     "title": "Roller Derby: Wheels of Grit",
     "tag": "sports",
     "description": "High-energy collisions and strategy on the roller rink.",
-    "reel_url": "https://www.youtube.com/shorts/RollerDerby333"
+    "reel_url": "https://youtu.be/WfqI1T__vDM"
   },
   {
     "id": 41,
     "title": "Speed Climbing: Vertical Velocity",
     "tag": "sports",
     "description": "Athletes race up sheer walls in a sprint against the clock.",
-    "reel_url": "https://www.youtube.com/shorts/SpeedClimbing41"
+    "reel_url": "https://youtu.be/ajOPV7IrKx0"
   },
   {
     "id": 42,
     "title": "Ice Hockey Intensity: Power Plays",
     "tag": "sports",
     "description": "Fast-paced ice hockey action with bone-crunching hits.",
-    "reel_url": "https://www.youtube.com/shorts/IceHockey42"
+    "reel_url": "https://youtu.be/ws1-iQ9U03g"
   },
   {
     "id": 43,
     "title": "Long Jump Legends: Flight & Distance",
     "tag": "sports",
     "description": "Watch jaw-dropping leaps and near-perfect landings.",
-    "reel_url": "https://www.youtube.com/shorts/LongJump43"
+    "reel_url": "https://youtu.be/mGjANZAx45k"
   },
   {
     "id": 44,
     "title": "Park BMX: Street Tricks Unleashed",
     "tag": "sports",
     "description": "Riders hit urban plazas with flips, spins, and style.",
-    "reel_url": "https://www.youtube.com/shorts/ParkBMX44"
+    "reel_url": "https://youtu.be/3t-gyWu3frw"
   },
   {
     "id": 45,
     "title": "High Dive Heroes: Cliff Edition",
     "tag": "sports",
     "description": "Daredevils leap off cliffs and nail perfect form.",
-    "reel_url": "https://www.youtube.com/shorts/CliffDive45"
+    "reel_url": "https://youtu.be/bHP_fQsHQrs"
   },
   {
     "id": 46,
     "title": "Speedminton: Shuttlecock in Flight",
     "tag": "sports",
     "description": "Fast-paced net-free badminton variant in epic rallies.",
-    "reel_url": "https://www.youtube.com/shorts/Speedminton46"
+    "reel_url": "https://youtu.be/2nsGXL5MliU"
   },
   {
     "id": 47,
     "title": "Capoeira Flow: Martial Art Dance Fusion",
     "tag": "sports",
     "description": "A mesmerizing mix of acrobatics, music, and movement.",
-    "reel_url": "https://www.youtube.com/shorts/Capoeira47"
+    "reel_url": "https://youtu.be/arJijEh3bS4"
   },
   {
     "id": 48,
     "title": "Obstacle Course: Urban Ninja Challenge",
     "tag": "sports",
     "description": "Athletes conquer warehouses full of creative obstacles.",
-    "reel_url": "https://www.youtube.com/shorts/UrbanNinja48"
+    "reel_url": "https://youtu.be/A0PbLoBILw4"
   },
   {
     "id": 49,
     "title": "Ski Jump: Launch & Flight",
     "tag": "sports",
     "description": "Ski jumpers soar through the air with pinpoint technique.",
-    "reel_url": "https://www.youtube.com/shorts/SkiJump49"
+    "reel_url": "https://youtu.be/97vaZ3pSkIw"
   },
   {
     "id": 50,
     "title": "Ice Climbing: Frozen Verticals",
     "tag": "sports",
     "description": "Athletes ascend sheer ice walls with axes and crampons.",
-    "reel_url": "https://www.youtube.com/shorts/IceClimbing50"
+    "reel_url": "https://youtu.be/CW38hocOg2g"
   },
   {
     "id": 51,

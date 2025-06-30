@@ -184,13 +184,19 @@ function ExploreReels() {
     const handleScroll = () => {
       if (
         container.scrollTop + container.clientHeight >= container.scrollHeight - 10 &&
-        !loadingMore
+        !loadingMore &&
+        reels.length > 0
       ) {
         setLoadingMore(true);
-        // Simulate loading more data (repeat the same data for demo)
+        // Repeat the current reels with new ids for endless scroll
         setTimeout(() => {
-          setAllReels(prev => [...prev, ...prev]);
-          setReels(prev => [...prev, ...prev]);
+          // Create new reels with unique ids to avoid React key conflicts
+          const repeated = reels.map((reel, idx) => ({
+            ...reel,
+            id: `${reel.id || idx}-repeat-${Date.now()}-${Math.random()}`
+          }));
+          setAllReels(prev => [...prev, ...repeated]);
+          setReels(prev => [...prev, ...repeated]);
           setLoadingMore(false);
         }, 800);
       }
@@ -198,7 +204,7 @@ function ExploreReels() {
 
     container.addEventListener('scroll', handleScroll);
     return () => container.removeEventListener('scroll', handleScroll);
-  }, [loadingMore]);
+  }, [loadingMore, reels]);
 
   const currentReel = reels[currentIdx];
   const videoUrl = currentReel

@@ -2,10 +2,6 @@
 # 📱 infiScroll – Infinite Feed Recommendation Web App
 
 **infiScroll** is a dynamic, visually engaging infinite scroll app for Reels, Photos, and Videos, delivering personalized recommendations based on user interests. Built for performance and seamless UX, it's mobile-friendly and feature-rich.
-
-
----
-
 ## 🎯 Objective
 
 > Build a recommendation-driven platform that helps users discover endless engaging content based on their interests — solving the content fatigue problem seen in many modern platforms.

@@ -10,15 +10,56 @@
 
 > Build a recommendation-driven platform that helps users discover endless engaging content based on their interests — solving the content fatigue problem seen in many modern platforms.
 
----
+---<h2>📸 Screenshots</h2>
 
-## 📸 Screenshots
+<table>
+  <tr>
+    <td align="center">
+      <strong>🖼️ Onboarding & Preferences</strong><br>
+      <img src="https://github.com/user-attachments/assets/949d2a93-25ee-454a-a9da-2f1be26c2483" width="300"/>
+    </td>
+    <td align="center">
+      <strong>🏠 Home Feed – Reels</strong><br>
+      <img src="https://github.com/user-attachments/assets/335e731b-8c09-405c-8150-1f4624db66aa" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>📸 Photo Feed View</strong><br>
+      <img src="https://github.com/user-attachments/assets/0ad3d3ec-2520-4df2-b9a4-b108e7309318" width="300"/>
+    </td>
+    <td align="center">
+      <strong>❤️ Liked Photos Screen</strong><br>
+      <img src="https://github.com/user-attachments/assets/78e78088-62bd-4f4d-89aa-162949c202e7" width="300"/>
+    </td>
+  </tr>
+</table>
+<h2>📸 Screenshots</h2>
 
-> *(Upload screenshots to `/assets` folder or directly drag them into GitHub and paste links here)*
+<table>
+  <tr>
+    <td align="center">
+      <strong>🖼️ Onboarding & Preferences</strong><br>
+      <img src="https://github.com/user-attachments/assets/949d2a93-25ee-454a-a9da-2f1be26c2483" width="300"/>
+    </td>
+    <td align="center">
+      <strong>🏠 Home Feed – Reels</strong><br>
+      <img src="https://github.com/user-attachments/assets/335e731b-8c09-405c-8150-1f4624db66aa" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>📸 Photo Feed View</strong><br>
+      <img src="https://github.com/user-attachments/assets/0ad3d3ec-2520-4df2-b9a4-b108e7309318" width="300"/>
+    </td>
+    <td align="center">
+      <strong>❤️ Liked Photos Screen</strong><br>
+      <img src="https://github.com/user-attachments/assets/78e78088-62bd-4f4d-89aa-162949c202e7" width="300"/>
+    </td>
+  </tr>
+</table>
 
-![screenshot1](./screenshots/)  
-![screenshot2](./screenshots/screenshot-2.png)  
-![screenshot3](./screenshots/screenshot-3.png)
+
 
 ---
 

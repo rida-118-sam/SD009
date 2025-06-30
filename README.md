@@ -6,7 +6,7 @@
 
 > Build a recommendation-driven platform that helps users discover endless engaging content based on their interests — solving the content fatigue problem seen in many modern platforms.
 
----<h2>📸 Screenshots</h2>
+<h2>📸 Screenshots</h2>
 
 <table>
   <tr>

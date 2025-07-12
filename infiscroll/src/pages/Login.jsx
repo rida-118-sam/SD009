@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { initializeApp } from 'firebase/app';
-
 import {
   getAuth,
   signInWithPopup,
@@ -23,7 +22,6 @@ const firebaseConfig = {
   measurementId: "G-KQRX6DY58M"
 };
 
-  
 // Firebase Init
 const app = initializeApp(firebaseConfig);
 const auth = getAuth(app);
@@ -176,9 +174,7 @@ function Login({ redirectTo = "/" }) {
               }}
             />
 
-            <button onClick={handleEmailLogin}
-            
-            style={{
+            <button onClick={handleEmailLogin} style={{
               background: 'linear-gradient(135deg, rgba(162,89,255,0.13), rgba(242,78,30,0.13))',
               color: 'black',
               border: '1.5px solid rgb(176, 202, 255)',
@@ -190,19 +186,7 @@ function Login({ redirectTo = "/" }) {
               cursor: 'pointer',
             }}>Sign In</button>
 
-            <button onClick={handleEmailSignup}
-           { createUserWithEmailAndPassword(auth, email, password)
-  .then((userCredential) => {
-    // Signed up 
-    const user = userCredential.user;
-    // ...
-  })
-  .catch((error) => {
-    const errorCode = error.code;
-    const errorMessage = error.message;
-    // ..
-  });}
-            style={{
+            <button onClick={handleEmailSignup} style={{
               background: 'linear-gradient(135deg, rgba(242,78,30,0.13), rgba(162,89,255,0.13))',
               color: 'black',
               border: '1.5px solid rgb(176, 202, 255)',

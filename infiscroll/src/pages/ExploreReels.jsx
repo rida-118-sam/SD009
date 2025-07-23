@@ -314,7 +314,7 @@ function ExploreReels() {
                 flexDirection: 'column',
                 alignItems: 'center',
                 justifyContent: 'start',
-                background: '#fafbfc' // whitish for scroll container
+ background: 'linear-gradient(90deg, #a259ff 100%, #f24e1e 100%);'
               }}
             >
               {currentReel && (
@@ -330,7 +330,7 @@ function ExploreReels() {
                     position: 'relative',
                     overflow: 'hidden',
                     flexDirection: 'column',
-                    background: '#fff' // reel card background whitish
+                    background: 'linear-gradient(90deg,rgba(161, 89, 255, 0.18) 0%,rgba(242, 79, 30, 0.24) 100%)' // reel card background whitish
                   }}
                 >
                   {/* Reel Video */}

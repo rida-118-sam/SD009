@@ -7,9 +7,14 @@ CORS(app)
 
 recommender = Recommender('model/dataset.json')
 
-@app.route('/')
-def home():
-    return "Server is running. Use /recommend?id=1 to get recommendations."
+@app.route('/recommend/all', methods=['GET'])
+def recommend_all():
+    all_recommendations = {}
+    for item in recommender.data:
+        item_id = item['id']
+        all_recommendations[item_id] = recommender.recommend(item_id)
+    return jsonify(all_recommendations)
+
 
 
 @app.route('/recommend', methods=['GET'])

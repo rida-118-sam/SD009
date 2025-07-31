@@ -25,13 +25,14 @@ def get_recommendations():
     recommendations = recommender.recommend(item_id)
     return jsonify(recommendations)
 
-    @app.route('/recommend/category/<category>', methods=['GET'])
-def recommend_by_category(category):
-    filtered_data = [item for item in recommender.data if item['tag'].lower() == category.lower()]
+   @app.route('/recommend/tag/<tag>', methods=['GET'])
+def recommend_by_tag(tag):
+    filtered_data = [item for item in recommender.data if item['tag'].lower() == tag.lower()]
     response = {}
     for item in filtered_data:
         response[item['id']] = recommender.recommend(item['id'])
     return jsonify(response)
+
 
 
 if __name__ == '__main__':

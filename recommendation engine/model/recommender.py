@@ -14,7 +14,7 @@ class Recommender:
         return pd.DataFrame(data)
 
     def preprocess(self):
-        self.data['combined'] = self.data['title'] + ' ' + self.data['description'] + ' ' + self.data['tags'].apply(lambda x: ' '.join(x))
+        self.data['combined'] = self.data['title'] + ' ' + self.data['description'] + ' ' + self.data['tag'].apply(lambda x: ' '.join(x))
         return self.data
 
     def train_model(self):

@@ -7,6 +7,10 @@ CORS(app)
 
 recommender = Recommender('model/dataset.json')
 
+@app.route('/')
+def home():
+    return "Server is running. Try /recommend?id=1 or /recommend/all"
+
 @app.route('/recommend/all', methods=['GET'])
 def recommend_all():
     all_recommendations = {}
@@ -14,8 +18,6 @@ def recommend_all():
         item_id = item['id']
         all_recommendations[item_id] = recommender.recommend(item_id)
     return jsonify(all_recommendations)
-
-
 
 @app.route('/recommend', methods=['GET'])
 def get_recommendations():
@@ -25,3 +27,4 @@ def get_recommendations():
 
 if __name__ == '__main__':
     app.run(debug=True)
+

@@ -5,14 +5,15 @@ import { getFirestore } from "firebase/firestore";
 
 // Firebase Configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyB6lLk-cPoXhUAlCD8ZCP95bv-vWkg2Q3w",
-  authDomain: "last-e9e0d.firebaseapp.com",
-  projectId: "last-e9e0d",
-  storageBucket: "last-e9e0d.appspot.com",
-  messagingSenderId: "1032095953004",
-  appId: "1:1032095953004:web:e96312ee616c692787a849",
-  measurementId: "G-YF6CP1Y3VE"
+  apiKey: "AIzaSyDUMMY-KEY-FOR-GITHUB",
+  authDomain: "your-project-id.firebaseapp.com",
+  projectId: "your-project-id",
+  storageBucket: "your-project-id.appspot.com",
+  messagingSenderId: "000000000000",
+  appId: "1:000000000000:web:dummyappid123456",
+  measurementId: "G-XXXXXXXXXX"
 };
+
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);

@@ -155,49 +155,6 @@ infiScroll/
 
 ---
 
- 🖼️ Screenshots
-
-<table>
-  <tr>
-    <td align="center">
-      <b>Login Page</b><br/>
-      <img src="https://github.com/user-attachments/assets/aed62092-c223-4de6-9733-eb4b17e489d4" width="250"/>
-    </td>
-    <td align="center">
-      <b>Explore Feed - Light Mode</b><br/>
-      <img src="https://github.com/user-attachments/assets/96a453aa-957c-4ca6-80c8-36270488daf9" width="250"/>
-    </td>
-    <td align="center">
-      <b>Explore Feed - Dark Mode</b><br/>
-      <img src="https://github.com/user-attachments/assets/14a84f38-6f63-4a26-acee-67cc228aaab2" width="250"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>Explore Tab View</b><br/>
-      <img src="https://github.com/user-attachments/assets/d3bd84e0-0b79-4493-a74f-67083a25b7d8" width="250"/>
-    </td>
-    <td align="center">
-      <b>Recommended Sports Feed</b><br/>
-      <img src="https://github.com/user-attachments/assets/878b0d11-c6fd-44e7-91c2-83b92cbf0278" width="250"/>
-    </td>
-    <td align="center">
-      <b>Category Filter Feed</b><br/>
-      <img src="https://github.com/user-attachments/assets/ea65aad3-b791-4182-b410-ef8659b380a2" width="250"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>Single Post View</b><br/>
-      <img src="https://github.com/user-attachments/assets/bde66cfe-b0ed-4a68-b805-eb67cc8ea41e" width="250"/>
-    </td>
-    <td align="center">
-      <b>Explore Bottom Nav</b><br/>
-      <img src="https://github.com/user-attachments/assets/fe328dba-4589-4f9b-8b40-39bd889b5256" width="250"/>
-    </td>
-  </tr>
-</table>
----
 <div id= "challenges-faced"></div>
  🧪 Challenges Faced
 

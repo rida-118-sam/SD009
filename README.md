@@ -2,7 +2,7 @@
 
 **infiScroll** is a sleek, scroll-based content recommendation app designed to deliver an endless stream of personalized posts — including **Photos**. With smart onboarding, dynamic themes, and an intuitive UI, it's built for users who crave simplicity without sacrificing discovery.
 
-🔗 **Live Demo**: [Try it on Vercel](https://infiscroll-git-master-krishas-projects-e9c3ea3f.vercel.app/login)
+🔗 **Live Demo**: [Try it on Vercel](https://infiscroll-zeta.vercel.app/login)
 
 ---
 
@@ -131,7 +131,7 @@ VITE_APP_ID=your_app_id
 
 # 3. Start the App
 ```bash
-npm run dev
+npm start
 ```
 
 ---

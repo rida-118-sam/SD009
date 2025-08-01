@@ -22,7 +22,7 @@
 ---
 
 <div id="objective"></div>
-## 🎯 Objective
+# 🎯 Objective
 
 > To solve content fatigue by offering a recommendation-driven, clean, and infinite scroll experience tailored to individual interests — all in one beautiful UI.
 

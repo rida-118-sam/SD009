@@ -46,14 +46,14 @@
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/your-id/Screenshot_Explore_Light.png" width="200" alt="Explore - Light Mode"><br><b>Explore – Light Mode</b></td>
-    <td><img src="https://user-images.githubusercontent.com/your-id/Screenshot_Explore_Dark.png" width="200" alt="Explore - Dark Mode"><br><b>Explore – Dark Mode</b></td>
-    <td><img src="https://user-images.githubusercontent.com/your-id/Screenshot_Post_Expanded.png" width="200" alt="Post Detail View"><br><b>Post Detail View</b></td>
+    <td><img src="https://github.com/user-attachments/assets/aed62092-c223-4de6-9733-eb4b17e489d4"><br><b>Explore – Light Mode</b></td>
+    <td><img src="https://github.com/user-attachments/assets/96a453aa-957c-4ca6-80c8-36270488daf9" width="200" alt="Explore - Dark Mode"><br><b>Explore – Dark Mode</b></td>
+    <td><img src="https://github.com/user-attachments/assets/14a84f38-6f63-4a26-acee-67cc228aaab2" width="200" alt="Post Detail View"><br><b>Post Detail View</b></td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/your-id/Screenshot_Recommended.png" width="200" alt="Recommended Feed"><br><b>Recommended Feed</b></td>
-    <td><img src="https://user-images.githubusercontent.com/your-id/Screenshot_SportsFeed.png" width="200" alt="Category Scroll - Sports"><br><b>Category Scroll – Sports</b></td>
-    <td><img src="https://user-images.githubusercontent.com/your-id/Screenshot_Explore_Tab_Navigation.png" width="200" alt="Bottom Navigation"><br><b>Bottom Navigation</b></td>
+    <td><img src="https://github.com/user-attachments/assets/fe328dba-4589-4f9b-8b40-39bd889b5256" width="200" alt="Recommended Feed"><br><b>Recommended Feed</b></td>
+    <td><img src="https://github.com/user-attachments/assets/bde66cfe-b0ed-4a68-b805-eb67cc8ea41e" width="200" alt="Category Scroll - Sports"><br><b>Category Scroll – Sports</b></td>
+    <td><img src="https://github.com/user-attachments/assets/ea65aad3-b791-4182-b410-ef8659b380a2" width="200" alt="Bottom Navigation"><br><b>Bottom Navigation</b></td>
   </tr>
 </table>
 

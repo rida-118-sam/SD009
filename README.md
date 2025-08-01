@@ -42,20 +42,50 @@
 ---
 
 <div id="screenshots"></div>
+
 # 🖼️ Screenshots
 
 <table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/aed62092-c223-4de6-9733-eb4b17e489d4"><br><b>Explore – Light Mode</b></td>
-    <td><img src="https://github.com/user-attachments/assets/96a453aa-957c-4ca6-80c8-36270488daf9" width="200" alt="Explore - Dark Mode"><br><b>Explore – Dark Mode</b></td>
-    <td><img src="https://github.com/user-attachments/assets/14a84f38-6f63-4a26-acee-67cc228aaab2" width="200" alt="Post Detail View"><br><b>Post Detail View</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/fe328dba-4589-4f9b-8b40-39bd889b5256" width="200" alt="Recommended Feed"><br><b>Recommended Feed</b></td>
-    <td><img src="https://github.com/user-attachments/assets/bde66cfe-b0ed-4a68-b805-eb67cc8ea41e" width="200" alt="Category Scroll - Sports"><br><b>Category Scroll – Sports</b></td>
-    <td><img src="https://github.com/user-attachments/assets/ea65aad3-b791-4182-b410-ef8659b380a2" width="200" alt="Bottom Navigation"><br><b>Bottom Navigation</b></td>
-  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <b>Login Page</b><br/>
+      <img src="https://github.com/user/screenshots/raw/main/Screenshot%202025-08-01%20210118.png" style="width:220px; height:auto; max-height:400px; object-fit:cover; border-radius:8px;"/>
+    </td>
+    <td align="center" valign="top">
+      <b>Explore Feed - Light Mode</b><br/>
+      <img src="https://github.com/user/screenshots/raw/main/Screenshot%202025-08-01%20210137.png" style="width:220px; height:auto; max-height:400px; object-fit:cover; border-radius:8px;"/>
+    </td>
+    <td align="center" valign="top">
+      <b>Explore Feed - Dark Mode</b><br/>
+      <img src="https://github.com/user/screenshots/raw/main/Screenshot%202025-08-01%20210155.png" style="width:220px; height:auto; max-height:400px; object-fit:cover; border-radius:8px;"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <b>Explore Tab View</b><br/>
+      <img src="https://github.com/user/screenshots/raw/main/Screenshot%202025-08-01%20210212.png" style="width:220px; height:auto; max-height:400px; object-fit:cover; border-radius:8px;"/>
+    </td>
+    <td align="center" valign="top">
+      <b>Recommended Sports Feed</b><br/>
+      <img src="https://github.com/user/screenshots/raw/main/Screenshot%202025-08-01%20210240.png" style="width:220px; height:auto; max-height:400px; object-fit:cover; border-radius:8px;"/>
+    </td>
+    <td align="center" valign="top">
+      <b>Category Filter Feed</b><br/>
+      <img src="https://github.com/user/screenshots/raw/main/Screenshot%202025-08-01%20210254.png" style="width:220px; height:auto; max-height:400px; object-fit:cover; border-radius:8px;"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <b>Single Post View</b><br/>
+      <img src="https://github.com/user/screenshots/raw/main/Screenshot%202025-08-01%20210313.png" style="width:220px; height:auto; max-height:400px; object-fit:cover; border-radius:8px;"/>
+    </td>
+    <td align="center" valign="top">
+      <b>Explore Bottom Nav</b><br/>
+      <img src="https://github.com/user/screenshots/raw/main/Screenshot%202025-08-01%20210339.png" style="width:220px; height:auto; max-height:400px; object-fit:cover; border-radius:8px;"/>
+    </td>
+  </tr>
 </table>
+
 
 ---
 

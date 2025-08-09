@@ -6,8 +6,8 @@ import { signInWithEmailAndPassword, createUserWithEmailAndPassword, signInWithP
 import { useNavigate } from 'react-router-dom';
 import { doc, setDoc } from 'firebase/firestore';
 
-const Login = ({ onLoginSuccess }) => {
-  const { dark, toggleDark } = useDarkMode();
+const Login = () => {
+  const { dark } = useDarkMode();
   const [showPassword, setShowPassword] = useState(false);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
@@ -44,38 +44,10 @@ const Login = ({ onLoginSuccess }) => {
         console.log('Login Successful:', userCredential.user);
       }
 
-      if (onLoginSuccess) {
-        onLoginSuccess();
-      }
+      navigate('/home'); // Redirect after login/signup
     } catch (err) {
       console.error(err);
-      // Handle specific Firebase auth errors with user-friendly messages
-      let errorMessage = '';
-      switch (err.code) {
-        case 'auth/user-not-found':
-        case 'auth/wrong-password':
-        case 'auth/invalid-credential':
-          errorMessage = 'Username or password is wrong. Please try again.';
-          break;
-        case 'auth/invalid-email':
-          errorMessage = 'Please enter a valid email address.';
-          break;
-        case 'auth/weak-password':
-          errorMessage = 'Password should be at least 6 characters long.';
-          break;
-        case 'auth/email-already-in-use':
-          errorMessage = 'An account with this email already exists. Please sign in instead.';
-          break;
-        case 'auth/too-many-requests':
-          errorMessage = 'Too many failed attempts. Please try again later.';
-          break;
-        case 'auth/network-request-failed':
-          errorMessage = 'Network error. Please check your internet connection.';
-          break;
-        default:
-          errorMessage = 'An error occurred. Please try again.';
-      }
-      setError(errorMessage);
+      setError(err.message);
     } finally {
       setLoading(false);
     }
@@ -97,40 +69,15 @@ const Login = ({ onLoginSuccess }) => {
         uid: user.uid,
       });
 
-      if (onLoginSuccess) {
-        onLoginSuccess();
-      }
+      navigate('/home');
     } catch (error) {
       console.error('Google Sign-in Error:', error);
-      let errorMessage = '';
-      switch (error.code) {
-        case 'auth/popup-closed-by-user':
-          errorMessage = 'Sign-in was cancelled. Please try again.';
-          break;
-        case 'auth/popup-blocked':
-          errorMessage = 'Pop-up was blocked. Please allow pop-ups and try again.';
-          break;
-        case 'auth/network-request-failed':
-          errorMessage = 'Network error. Please check your internet connection.';
-          break;
-        default:
-          errorMessage = 'Google sign-in failed. Please try again.';
-      }
-      setError(errorMessage);
+      setError(error.message);
     }
   };
 
   return (
-    <div className={`Login-bg${dark ? ' dark' : ''}`}>
-      {/* Theme Toggle Button */}
-      <button 
-        className="Login-theme-toggle"
-        onClick={toggleDark}
-        aria-label="Toggle theme"
-      >
-        {dark ? '☀️' : '🌙'}
-      </button>
-      
+    <div className={Login-bg${dark ? ' dark' : ''}}>
       <div className="Login-container">
         <h2 className="Login-headline">{isSignup ? 'Create an Account ✨' : 'Welcome back 👋'}</h2>
         <div className="Login-subline">
@@ -198,20 +145,10 @@ const Login = ({ onLoginSuccess }) => {
 
         <div className="Login-divider"><span>or sign in with</span></div>
         <div className="Login-socials">
-          <button
-              className="Login-google-btn"
-              aria-label="Continue with Google"
-              onClick={handleGoogleSignIn}
-          >
-    <img
-      src="https://developers.google.com/identity/images/g-logo.png"
-      alt="Google logo"
-      className="Login-google-icon"
-    />
-    <span>Continue with Google</span>
-  </button>
-</div>
-
+          <button className="Login-social Login-google" aria-label="Sign in with Google" onClick={handleGoogleSignIn}>
+            G
+          </button>
+        </div>
 
         {/* Toggle between Sign In and Sign Up */}
         <p className="Login-toggle">

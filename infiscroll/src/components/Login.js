@@ -198,10 +198,20 @@ const Login = ({ onLoginSuccess }) => {
 
         <div className="Login-divider"><span>or sign in with</span></div>
         <div className="Login-socials">
-          <button className="Login-social Login-google" aria-label="Sign in with Google" onClick={handleGoogleSignIn}>
-            G
-          </button>
-        </div>
+          <button
+              className="Login-google-btn"
+              aria-label="Continue with Google"
+              onClick={handleGoogleSignIn}
+          >
+    <img
+      src="https://developers.google.com/identity/images/g-logo.png"
+      alt="Google logo"
+      className="Login-google-icon"
+    />
+    <span>Continue with Google</span>
+  </button>
+</div>
+
 
         {/* Toggle between Sign In and Sign Up */}
         <p className="Login-toggle">
